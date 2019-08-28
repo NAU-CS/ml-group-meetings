@@ -3,9 +3,9 @@ Group meeting schedule, Fall 2019
 Wednesday 1-2pm, SICCS 224.
 
 - [[file:2019-08-28-summer-research.org][Aug 28]]: Toby Dylan Hocking "summer research"
-- Sept 4
-- Sept 11
-- Sept 18
+- Sept 4: Anuraag
+- Sept 11: Zaoyi
+- Sept 18: Atiyeh
 - Sept 25
 - Oct 2
 - Oct 9
