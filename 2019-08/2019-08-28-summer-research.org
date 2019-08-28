@@ -1,0 +1,39 @@
+- [[https://tdhock.github.io/blog/2019/useR-debrief/][useR 2019 debrief]]
+- [[http://jan.ucc.nau.edu/~th798/members/][Members web page]]: links ok? github accounts? photos?
+
+reviews back
+- from Journal of Statistical Software, [[https://arxiv.org/abs/1810.00117][Generalized Functional Pruning
+  Optimal Partitioning (GFPOP) for Constrained Changepoint Detection
+  in Genomic Data]].
+- from NeurIPS, paper with J Vargovich, Linear time dynamic
+  programming for the exact path of optimal models selected from a
+  finite set. 
+- from Journal of Machine Learning Research, [[https://arxiv.org/abs/1401.8008][Support Vector Comparison
+  Machines]].
+- from R Journal, [[https://github.com/tdhock/namedCapture-article/blob/master/RJwrapper.pdf][Comparing namedCapture with other R packages for
+  regular expressions]].
+
+submitted "Machine learning algorithms for simultaneous supervised
+detection of peaks in multiple samples and cell types" to PSB 2020.
+
+new projects/results:
+- [[https://github.com/tdhock/max-generalized-auc][Minimizing area under min(FP, FN) maximizes AUC]].
+- [[https://github.com/tdhock/nc][New R package nc for named capture]].
+- [[https://github.com/tdhock/cv-penalty][Cross-validation for learning the penalty parameter in optimal
+  changepoint problems]].
+- [[https://github.com/tdhock/pepseq-paper][Benchmark pepseq data set with labels, joint peak algorithm]].
+
+[[http://members.cbio.mines-paristech.fr/~thocking/animint2-manual/Ch02-ggplot2.html][Manual for creating interactive data viz using R + animint2 package]]
+(finally removed all TODOs).
+
+GSOC'19
+- Anuraag Srivastava, opart R pkg, Optimal Partitioning Algorithm for
+  quadratic time changepoint detection.
+- Avinash Barnwal, xgboost R package, Accelerated Failure Time loss
+  functions.
+- Aditya Sam, iregnet R package, elastic net regularized interval
+  regression.
+
+[[https://github.com/rstats-gsoc/gsoc2020/wiki/table%2520of%2520proposed%2520coding%2520projects][GSOC'20]]
+- proposed [[https://github.com/rstats-gsoc/gsoc2020/wiki/rtracklayer-improvements][rtracklayer improvements]] project.
+
