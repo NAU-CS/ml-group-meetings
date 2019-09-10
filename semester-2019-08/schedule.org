@@ -7,8 +7,8 @@ Wednesday 1-2pm, SICCS 224.
           [[https://github.com/as4378/opart][Code on GitHub]]
 - Sept 11: Zaoyi
 - Sept 18: Atiyeh
-- Sept 25
-- Oct 2
+- Sept 25: Jin Ming 
+- Oct 2: Toby Dylan Hocking, emacs on monsoon
 - Oct 9
 - Oct 16
 - Oct 23
