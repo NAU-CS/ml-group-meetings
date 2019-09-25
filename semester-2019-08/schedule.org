@@ -9,9 +9,9 @@ Wednesday 1-2pm, SICCS 224.
 - Sept 18: Atiyeh
 - Sept 25: Jin Ming 
 - Oct 2: Toby Dylan Hocking, emacs on monsoon
-- Oct 9
-- Oct 16
-- Oct 23
+- Oct 9 Anuraag
+- Oct 16  Zaoyi
+- Oct 23  Atiyeh
 - Oct 30
 - Nov 6
 - Nov 13
