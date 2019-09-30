@@ -6,7 +6,7 @@ Wednesday 1-2pm, SICCS 224.
 - Sept 4: Anuraag [[https://drive.google.com/drive/folders/1N9OSTHAGaH_ZrOeRNcNc5eXFEDkJWbjY][Optimal Partitioning vignette]]
           [[https://github.com/as4378/opart][Code on GitHub]]
 - Sept 11: Zaoyi presents [[https://github.com/Zaoyee/demo-tensorboard][short-demo on DL project tensorboard in pytorch and Google Colab]]
-- Sept 18: Atiyeh
+- Sept 18: Atiyeh [https://github.com/AtiyehFtn/GFPOP-in-Detecting-Fiducial-Points-of-ECG]
 - Sept 25: Jin Ming 
 - Oct 2: Toby Dylan Hocking, emacs on monsoon
 - Oct 9 Anuraag
