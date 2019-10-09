@@ -9,7 +9,7 @@ Wednesday 1-2pm, SICCS 224.
 - Sept 18: Atiyeh [[https://github.com/AtiyehFtn/GFPOP-in-Detecting-Fiducial-Points-of-ECG][GFPOP in Detecting Fiducial Points of ECG Signal]]
 - Sept 25: Jin Ming 
 - Oct 2: Toby Dylan Hocking, emacs on monsoon demo, [[http://members.cbio.mines-paristech.fr/~thocking/r-cbio-cluster.html][Using R on the CBIO cluster]]
-- Oct 9 Anuraag
+- Oct 9 Anuraag [[https://www.overleaf.com/read/rwzpxnjbtktv]]
 - Oct 16  Zaoyi
 - Oct 23  Atiyeh
 - Oct 30
