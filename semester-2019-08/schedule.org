@@ -14,9 +14,9 @@ Wednesday 1-2pm, SICCS 224.
 - Oct 16 Zaoyi
 - Oct 23 Jinming
 - Oct 30 Atiyeh
-- Nov 6 -- Prof Hocking absent.
-- Nov 13 -- Toby Dylan Hocking, [[https://tdhock.github.io/blog/2019/useR-debrief/][useR debrief]].
-- Nov 20
-- Nov 27
-- Dec 4
-- Dec 11
+- Nov 6: Prof Hocking absent.
+- Nov 13: Toby Dylan Hocking, [[https://tdhock.github.io/blog/2019/useR-debrief/][useR debrief]].
+- Nov 20: Anuraag
+- Nov 27: Zaoyi
+- Dec 4: Jinming
+- Dec 11: Atiyeh
