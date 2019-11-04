@@ -15,7 +15,7 @@ Wednesday 1-2pm, SICCS 224.
 - Oct 23 Jinming
 - Oct 30 Atiyeh
 - Nov 6: Prof Hocking absent.
-- Nov 13: Toby Dylan Hocking, [[https://tdhock.github.io/blog/2019/useR-debrief/][useR debrief]].
+- Nov 13: Toby Dylan Hocking, [[https://tdhock.github.io/blog/2019/useR-debrief/][useR debrief]], [[https://github.com/tdhock/PeakSegFPOP-paper#arxiv170303352-a-log-linear-segmentation-algorithm-for-peak-detection-in-genomic-data][dynamic programming proof]].
 - Nov 20: Anuraag
 - Nov 27: Zaoyi
 - Dec 4: Jinming
