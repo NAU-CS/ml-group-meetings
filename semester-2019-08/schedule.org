@@ -7,12 +7,12 @@ Wednesday 1-2pm, SICCS 224.
           [[https://github.com/as4378/opart][Code on GitHub]]
 - Sept 11: Zaoyi presents [[https://github.com/Zaoyee/demo-tensorboard][short-demo on DL project tensorboard in pytorch and Google Colab]]
 - Sept 18: Atiyeh [[https://github.com/AtiyehFtn/GFPOP-in-Detecting-Fiducial-Points-of-ECG][GFPOP in Detecting Fiducial Points of ECG Signal]]
-- Sept 25: Jin Ming 
+- Sept 25: Jinming ECG Project Presentation[[https://github.com/LooDaHu/ecg]] 
 - Oct 2: Toby Dylan Hocking, emacs on monsoon demo, [[http://members.cbio.mines-paristech.fr/~thocking/r-cbio-cluster.html][Using R on the CBIO cluster]]
 - Oct 9 Anuraag Overleaf document: [[https://www.overleaf.com/read/rwzpxnjbtktv]]
  Slides: [[https://drive.google.com/file/d/1wtuucC9ZU_LlZ0wtP1tRfDz5biL_VEPz/view?usp=sharing]]
 - Oct 16 Zaoyi
-- Oct 23 Jinming
+- Oct 23 Jinming: Simple Introduction to Numba slide[[https://docs.google.com/presentation/d/1Omklhq9yeOCdAWP8XTfSLCeovQk_aHKCCEE_OW3bLPI/edit?usp=sharing]] 
 - Oct 30 Atiyeh: Interactive graphs for ECG segmentation application using animint2 package
 - Nov 6: Prof Hocking absent.
 - Nov 13: Toby Dylan Hocking, [[https://tdhock.github.io/blog/2019/useR-debrief/][useR debrief]], [[https://github.com/tdhock/PeakSegFPOP-paper#arxiv170303352-a-log-linear-segmentation-algorithm-for-peak-detection-in-genomic-data][dynamic programming proof]].
