@@ -18,5 +18,6 @@ Wednesday 1-2pm, SICCS 224.
 - Nov 13: Toby Dylan Hocking, [[https://tdhock.github.io/blog/2019/useR-debrief/][useR debrief]], [[https://github.com/tdhock/PeakSegFPOP-paper#arxiv170303352-a-log-linear-segmentation-algorithm-for-peak-detection-in-genomic-data][dynamic programming proof]].
 - Nov 20: Anuraag, [[https://github.com/as4378/Test]], Link to R packages book [[https://github.com/NAU-CS/ml-group-meetings/blob/master/semester-2019-08/r-packages.pdf]]
 - Nov 27: Zaoyi
-- Dec 4: Jinming
-- Dec 11: Atiyeh
+- Dec 4: Atiyeh
+- Dec 11: Jinming ecg labeling system[[https://github.com/LooDaHu/ecg]]
+- 
