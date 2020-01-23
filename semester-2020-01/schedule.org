@@ -3,7 +3,7 @@ Group meeting schedule, Spring 2020
 Fridays 11-noon, SICCS 224
 
 - Jan 17: Toby Dylan Hocking, [[https://tdhock.github.io/blog/2019/useR-debrief/][useR debrief]]
-- Jan 24: Anuraag
+- Jan 24: Anuraag, [[https://github.com/LooDaHu/ecg][ECG?]]
 - Jan 31: Joe 
 - Feb 7: Atiyeh 
 - Feb 14: Arnaud
