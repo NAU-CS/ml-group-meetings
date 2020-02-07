@@ -5,7 +5,8 @@ Fridays 11-noon, SICCS 224
 - Jan 17: Toby Dylan Hocking, [[https://tdhock.github.io/blog/2019/useR-debrief/][useR debrief]]
 - Jan 24: Group project: [[https://github.com/LooDaHu/ecg][ECG labeling using Jinming's GUI]], [[https://github.com/LooDaHu/ecg/tree/master/fake_label_data_set][label files we created]]
 - Jan 31: Joe presentation on research project, Linear Time Dynamic Programming Algorithm for the Exact Path of Optimal Breakpoints from a finite set. [[https://github.com/tdhock/changepoint-data-structure][github repo]], [[https://drive.google.com/open?id=1QB3SCpSTvcXs27kj0MlhsgFAIQU304yX][slides]], interactive changepoint data viz: [[http://bl.ocks.org/tdhock/raw/2b029fe9abc8eb300f9f/][loss values]], [[http://bl.ocks.org/tdhock/raw/10f27e4ace80bffa10a0/][target interval]]
-- Feb 7: Atiyeh 
+- Feb 7: Toby Dylan Hocking, [[file:2020_HOCKING_PSB_slides.pdf][slides on PeakSegJoint/PeakSegPipeline
+  from PSB'20]]
 - Feb 14: Arnaud
 - Feb 21: Zaoyi
 - Feb 28: Jinming
