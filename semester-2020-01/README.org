@@ -8,7 +8,7 @@ Fridays 11-noon, SICCS 224
 - Feb 7: Toby Dylan Hocking, [[file:2020_HOCKING_PSB_slides.pdf][slides on PeakSegJoint/PeakSegPipeline
   from PSB'20]]
 - Feb 14: Arnaud
-- Feb 21: Zaoyi
+- Feb 21: Zaoyi [Spatial Pyramid Pooling]
 - Feb 28: Jinming
 - Mar 6: Andrew
 - Mar 13: Darien
