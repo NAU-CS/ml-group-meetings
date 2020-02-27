@@ -11,7 +11,7 @@ Fridays 11-noon, SICCS 224
 - Feb 21: Zaoyi [Spatial Pyramid Pooling]
 - Feb 28: Jinming
 - Mar 6: Andrew
-- Mar 13: Darien
+- Mar 13: 
 - Mar 20: Spring break
 - Mar 27: Anuraag (I can also present in someone's slot if anyone wants to skip)
 - Apr 3
