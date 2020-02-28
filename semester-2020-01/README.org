@@ -9,7 +9,7 @@ Fridays 11-noon, SICCS 224
   from PSB'20]]
 - Feb 14: Arnaud presentation of a new fast and optimal changepoint detection method using non linear penalties and functional pruning. [[file:FPOPPSD.pdf][(slides here)]]
 - Feb 21: Zaoyi [Spatial Pyramid Pooling]
-- Feb 28: Jinming
+- Feb 28: Jinming [Custom CUDA Kernels in Python with Numba](https://docs.google.com/presentation/d/1y-loKP1ijbB4gpnCrOmma69Z03-exZHO3ZgTJa8jv30/edit?usp=sharing)
 - Mar 6: Andrew
 - Mar 13: 
 - Mar 20: Spring break
