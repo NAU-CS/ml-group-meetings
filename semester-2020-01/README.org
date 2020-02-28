@@ -8,7 +8,7 @@ Fridays 11-noon, SICCS 224
 - Feb 7: Toby Dylan Hocking, [[file:2020_HOCKING_PSB_slides.pdf][slides on PeakSegJoint/PeakSegPipeline
   from PSB'20]]
 - Feb 14: Arnaud presentation of a new fast and optimal changepoint detection method using non linear penalties and functional pruning. [[file:FPOPPSD.pdf][(slides here)]]
-- Feb 21: Zaoyi [Spatial Pyramid Pooling]
+- Feb 21: Zaoyi [[https://github.com/NAU-CS/ml-group-meetings/blob/master/semester-2020-01/Spatial%20Pyramid%20Pooling.pptx] Spatial Pyramid Pooling]
 - Feb 28: Jinming [Custom CUDA Kernels in Python with Numba](https://docs.google.com/presentation/d/1y-loKP1ijbB4gpnCrOmma69Z03-exZHO3ZgTJa8jv30/edit?usp=sharing)
 - Mar 6: Andrew
 - Mar 13: 
