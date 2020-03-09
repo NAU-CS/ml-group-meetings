@@ -7,7 +7,7 @@ Fridays 11-noon, SICCS 224
 - Jan 31: Joe presentation on research project, Linear Time Dynamic Programming Algorithm for the Exact Path of Optimal Breakpoints from a finite set. [[https://github.com/tdhock/changepoint-data-structure][github repo]], [[https://drive.google.com/open?id=1QB3SCpSTvcXs27kj0MlhsgFAIQU304yX][slides]], interactive changepoint data viz: [[http://bl.ocks.org/tdhock/raw/2b029fe9abc8eb300f9f/][loss values]], [[http://bl.ocks.org/tdhock/raw/10f27e4ace80bffa10a0/][target interval]]
 - Feb 7: Toby Dylan Hocking, [[file:2020_HOCKING_PSB_slides.pdf][slides on PeakSegJoint/PeakSegPipeline
   from PSB'20]]
-- Feb 14: Arnaud presentation of a new fast and optimal changepoint detection method using non linear penalties and functional pruning. [[file:FPOPPSD.pdf][(slides here)]]
+- Feb 14: Arnaud presentation of a [[file:FPOPPSD.pdf][new fast and optimal changepoint detection method using non linear penalties and functional pruning]]. 
 - Feb 21: Zaoyi [[https://github.com/NAU-CS/ml-group-meetings/blob/master/semester-2020-01/Spatial%20Pyramid%20Pooling.pptx][Spatial Pyramid Pooling]]
 - Feb 28: Jinming [[https://docs.google.com/presentation/d/1y-loKP1ijbB4gpnCrOmma69Z03-exZHO3ZgTJa8jv30/edit?usp=sharing][Custom CUDA Kernels in Python with Numba]]
 - Mar 6: Toby Dylan Hocking [[https://github.com/tdhock/nc][nc package in R]] for extracting data tables from non-tabular text using regular expressions, [[https://github.com/tdhock/nc-article/raw/master/RJwrapper.pdf][draft article for R journal]].
