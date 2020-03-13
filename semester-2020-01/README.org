@@ -11,7 +11,7 @@ Fridays 11-noon, SICCS 224
 - Feb 21: Zaoyi [[https://github.com/NAU-CS/ml-group-meetings/blob/master/semester-2020-01/Spatial%20Pyramid%20Pooling.pptx][Spatial Pyramid Pooling]]
 - Feb 28: Jinming [[https://docs.google.com/presentation/d/1y-loKP1ijbB4gpnCrOmma69Z03-exZHO3ZgTJa8jv30/edit?usp=sharing][Custom CUDA Kernels in Python with Numba]]
 - Mar 6: Toby Dylan Hocking [[https://github.com/tdhock/nc][nc package in R]] for extracting data tables from non-tabular text using regular expressions, [[https://github.com/tdhock/nc-article/raw/master/RJwrapper.pdf][draft article for R journal]], [[https://www.youtube.com/playlist?list=PLwc48KSH3D1P8R7470s0lgcUObJLEXSSO][screencasts]].
-- Mar 13: 
+- Mar 13: Anuraag [[https://drive.google.com/file/d/1v02vp4MIj89DA5mPu5GUVOB5_Ov5t1eB/view?usp=sharing]] Labelled optimal partitioning
 - Mar 20: Spring break
 - Mar 27: Anuraag (I can also present in someone's slot if anyone wants to skip)
 - Apr 3
