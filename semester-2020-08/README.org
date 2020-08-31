@@ -4,7 +4,7 @@ Mondays 2:30-3:30 on zoom.
 
 - Aug 31: Toby, Labeled Optimal Partitioning [[file:2020-08-31-HOCKING-LOPART-slides.pdf][Slides]], [[https://github.com/tdhock/LOPART-paper][Code]], [[http://members.cbio.mines-paristech.fr/~thocking/figure-candidates-interactive/][Interactive
   Figure]].
-- Sep 7: Joe.
+- Sep 7: Joe, The Hardware of Machine Learning, When Does Hardware Matter?  Slides: TBA
 - Sep 14: Tristan
 - Sep 21: Hillman
 - Sep 28: Akhila
