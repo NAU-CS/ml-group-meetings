@@ -8,7 +8,8 @@ Mondays 2:30-3:30 on zoom.
 
 - Aug 31: Toby, Labeled Optimal Partitioning [[file:2020-08-31-HOCKING-LOPART-slides.pdf][Slides]], [[https://github.com/tdhock/LOPART-paper][Code]], [[http://members.cbio.mines-paristech.fr/~thocking/figure-candidates-interactive/][Interactive
   Figure]].
-- Sep 14: Joe, The Hardware of Machine Learning, When Does Hardware Matter? [[https://docs.google.com/presentation/d/1pwu3eXLPLtqrxmpvn2rJHayEe_JEk9Tr3Ple2PORATQ/edit?usp=sharing][Slides]]
+- Sep 14: Joe, The Hardware of Machine Learning, When Does Hardware
+  Matter? [[https://docs.google.com/presentation/d/1pwu3eXLPLtqrxmpvn2rJHayEe_JEk9Tr3Ple2PORATQ/edit?usp=sharing][Slides]], [[https://tdhock.github.io/blog/2020/monsoon-batchtools/][blog about R on monsoon]], [[https://in.nau.edu/hpc/overview/using-the-cluster-advanced/gpu-accelerated-jobs/][GPU jobs on monsoon]]
 - Sep 21: Tristan
 - Sep 28: Hillman
 - Oct 5: Akhila
