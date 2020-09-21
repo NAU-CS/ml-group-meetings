@@ -11,7 +11,7 @@ Mondays 2:30-3:30 on zoom.
 - Sep 14: Joe, The Hardware of Machine Learning, When Does Hardware
   Matter? [[https://docs.google.com/presentation/d/1pwu3eXLPLtqrxmpvn2rJHayEe_JEk9Tr3Ple2PORATQ/edit?usp=sharing][Slides]], [[https://tdhock.github.io/blog/2020/monsoon-batchtools/][blog about R on monsoon]], [[https://in.nau.edu/hpc/overview/using-the-cluster-advanced/gpu-accelerated-jobs/][GPU jobs on monsoon]], [[https://docs.google.com/presentation/d/1y-loKP1ijbB4gpnCrOmma69Z03-exZHO3ZgTJa8jv30/edit?usp=sharing][Numba
   (Python module for GPU programming)]]
-- Sep 21: Tristan
+- Sep 21: Tristan, Reinforcement Learning [[https://docs.google.com/presentation/d/1WNlaD30vB8L0gtzHepnzkYSlwbzRKjsZnyF_TOhSckw/edit?usp=sharing][Slides]]
 - Sep 28: Hillman
 - Oct 5: Akhila
 - Oct 12: Su
