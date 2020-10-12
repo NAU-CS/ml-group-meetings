@@ -14,5 +14,10 @@ Mondays 2:30-3:30 on zoom.
 - Sep 21: Tristan, Reinforcement Learning [[https://docs.google.com/presentation/d/1WNlaD30vB8L0gtzHepnzkYSlwbzRKjsZnyF_TOhSckw/edit?usp=sharing][Slides]]
 - Sep 28: Hillman
 - Oct 5: Akhila, RcppDeepState [[https://docs.google.com/presentation/d/1tWj-4NxD3dIfNg0nepaH98-B2i-ijbOjEj5UuwkT5IA/edit?usp=sharing][Slides]],  [[https://github.com/akhikolla/RcppDeepState][Code]], [[https://akhikolla.github.io./][Blog]]
-- Oct 12: Su
-- TODO
+- Oct 12: Toby, [[https://github.com/tdhock/nc-article#paper][regular expressions for data reshaping]].
+- Oct 19: Su
+- Oct 26: Burkhart?
+- Nov 2: Joe?
+- Nov 9: Tristan?
+- Nov 16: Hillman?
+- Nov 23: Akhila?
