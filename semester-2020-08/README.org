@@ -16,8 +16,8 @@ Mondays 2:30-3:30 on zoom.
 - Oct 5: Akhila, RcppDeepState [[https://docs.google.com/presentation/d/1tWj-4NxD3dIfNg0nepaH98-B2i-ijbOjEj5UuwkT5IA/edit?usp=sharing][Slides]],  [[https://github.com/akhikolla/RcppDeepState][Code]], [[https://akhikolla.github.io./][Blog]]
 - Oct 12: Toby, [[https://github.com/tdhock/nc-article#paper][regular expressions for data reshaping]].
 - Oct 19: Su
-- Oct 26: Burkhart?
-- Nov 2: Joe?
+- Oct 26: Toby, [[https://tdhock.github.io/blog/2020/monsoon-batchtools/][batchtools on monsoon tutorial]].
+- Nov 2: Burkhart
 - Nov 9: Tristan?
 - Nov 16: Hillman?
 - Nov 23: Akhila?
