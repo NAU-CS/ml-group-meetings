@@ -15,7 +15,7 @@ Mondays 2:30-3:30 on zoom.
 - Sep 28: Hillman, AUM optimization [[https://www.overleaf.com/read/nrrcjbkgyyqt][Slides]]
 - Oct 5: Akhila, RcppDeepState [[https://docs.google.com/presentation/d/1tWj-4NxD3dIfNg0nepaH98-B2i-ijbOjEj5UuwkT5IA/edit?usp=sharing][Slides]],  [[https://github.com/akhikolla/RcppDeepState][Code]], [[https://akhikolla.github.io./][Blog]]
 - Oct 12: Toby, [[https://github.com/tdhock/nc-article#paper][regular expressions for data reshaping]].
-- Oct 19: Su, [[https://docs.google.com/presentation/d/1zQdYzhDFg7pE29VkJW7HWIf6gSP2jY33/edit#slide=id.p1]].
+- Oct 19: Su, Deep learning for supervised changepoint detection[[https://docs.google.com/presentation/d/1zQdYzhDFg7pE29VkJW7HWIf6gSP2jY33/edit#slide=id.p1][Slides]].
 - Oct 26: Toby, [[https://tdhock.github.io/blog/2020/monsoon-batchtools/][batchtools on monsoon tutorial]], [[http://members.cbio.mines-paristech.fr/~thocking/change-tutorial/Supervised.html][Supervised changepoint detection tutorial]].
 - Nov 2: Burkhart
 - Nov 9: Tristan?
