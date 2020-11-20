@@ -17,5 +17,5 @@ Mondays 2:30-3:30 on zoom.
 - Oct 12: Toby, [[https://github.com/tdhock/nc-article#paper][regular expressions for data reshaping]].
 - Oct 19: Su, Deep Learning For Supervised Changepoint Detection [[https://docs.google.com/presentation/d/1zQdYzhDFg7pE29VkJW7HWIf6gSP2jY33/edit#slide=id.p1][Slides]].
 - Oct 26: Toby, [[https://tdhock.github.io/blog/2020/monsoon-batchtools/][batchtools on monsoon tutorial]], [[http://members.cbio.mines-paristech.fr/~thocking/change-tutorial/Supervised.html][Supervised changepoint detection tutorial]].
-- Nov 2: Burkhart
+- Nov 2: Burkhart, Machine Learning Algorithns for Multiplex PCR Primer Design [[https://docs.google.com/presentation/d/1WDkmnMXGJMoJQojiAQfONggREmYkM49syPDXccHpXcA/edit#slide=id.ga69393c0de_1_22]]
 - Nov 9: Tristan, [[https://docs.google.com/presentation/d/1jHLGj0k86DfXqd-nd9NFtEN8B4hI6s7C-qTghVWvOVI/edit?usp=sharing][Slides]], [[https://github.com/deltarod/PeakLearner][Code]]
