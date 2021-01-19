@@ -10,14 +10,14 @@ Mondays 3:30-4:30 on zoom.
 - Jan 18: Holiday (no meeting).
 - Jan 25: Tristan
 - Feb 1: Jon
-- Feb 8: Alyssa
-- Feb 15: Akhila
+- Feb 8: David Venuto, Introduction to Reinforcement Learning.
+- Feb 15: Alyssa
 - Feb 22: Frank
-- Mar 1: Tristan
-- Mar 8: Jon
+- Mar 1: Akhila
+- Mar 8: Tristan
 - Mar 15: Toby 
 - Mar 22: Alyssa
 - Mar 29: Akhila
 - Apr 5: Frank
-- Apr 12:
+- Apr 12: Jon
 - Apr 19:
