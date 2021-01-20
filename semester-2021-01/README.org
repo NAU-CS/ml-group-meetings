@@ -10,14 +10,14 @@ Mondays 3:30-4:30 on zoom.
 - Jan 18: Holiday (no meeting).
 - Jan 25: Tristan
 - Feb 1: Jon
-- Feb 8: David Venuto, Introduction to Reinforcement Learning.
+- Feb 8: [[https://dvvenuto.github.io/][David Venuto]], Introduction to Reinforcement Learning.
 - Feb 15: Alyssa
 - Feb 22: Frank
-- Mar 1: Akhila
-- Mar 8: Tristan
-- Mar 15: Toby 
-- Mar 22: Alyssa
-- Mar 29: Akhila
+- Mar 1: [[https://vincentrunge.github.io/][Vincent Runge]], TBD.
+- Mar 8: Akhila
+- Mar 15: Tristan
+- Mar 22: [[https://www.alexdrouin.com/][Alex Drouin]], [[https://arxiv.org/abs/2007.01754][Differentiable Causal Discovery from Interventional Data]].
+- Mar 29: Jon
 - Apr 5: Frank
-- Apr 12: Jon
-- Apr 19:
+- Apr 12: Akhila
+- Apr 19: Alyssa
