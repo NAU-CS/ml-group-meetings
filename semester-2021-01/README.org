@@ -14,8 +14,8 @@ Mondays 3:30-4:30 on zoom.
 - Feb 15: Alyssa
 - Feb 22: Frank
 - Mar 1: [[https://vincentrunge.github.io/][Vincent Runge]], TBD.
-- Mar 8: Akhila
-- Mar 15: Tristan
+- Mar 8: Arnaud Liehrmann, TBD.
+- Mar 15: Akhila
 - Mar 22: [[https://www.alexdrouin.com/][Alex Drouin]], [[https://arxiv.org/abs/2007.01754][Differentiable Causal Discovery from
   Interventional Data]]. 
   - Abstract: Knowledge of the causal structure that underlies a data
@@ -37,7 +37,7 @@ Mondays 3:30-4:30 on zoom.
     Laval University in 2019 for his work on antibiotic resistance
     prediction in bacterial genomes. His research interests include
     causal inference, deep learning, and bioinformatics
-- Mar 29: Jon
-- Apr 5: Frank
-- Apr 12: Akhila
-- Apr 19: Alyssa
+- Mar 29: Tristan
+- Apr 5: Jon
+- Apr 12: Alyssa
+- Apr 19: Frank
