@@ -16,7 +16,27 @@ Mondays 3:30-4:30 on zoom.
 - Mar 1: [[https://vincentrunge.github.io/][Vincent Runge]], TBD.
 - Mar 8: Akhila
 - Mar 15: Tristan
-- Mar 22: [[https://www.alexdrouin.com/][Alex Drouin]], [[https://arxiv.org/abs/2007.01754][Differentiable Causal Discovery from Interventional Data]].
+- Mar 22: [[https://www.alexdrouin.com/][Alex Drouin]], [[https://arxiv.org/abs/2007.01754][Differentiable Causal Discovery from
+  Interventional Data]]. 
+  - Abstract: Knowledge of the causal structure that underlies a data
+    generating process is essential to answering questions of causal
+    nature. Such questions are abundant in fields that involve
+    decision making such as econometrics, epidemiology, and social
+    sciences. When causal knowledge is unavailable, one can resort to
+    causal discovery algorithms, which attempt to recover causal
+    relationships from data. This talk will present a new algorithm
+    for this task, that combines continuous-constrained optimization
+    with the flexible density estimation capabilities of normalizing
+    flows. In contrast with previous work in this direction, our
+    method combines observational and interventional data to improve
+    identification of the causal graph. We will present empirical
+    results, along with a theoretical justification of our algorithm.
+  - Short bio: Alexandre Drouin is a Research Scientist at Element AI
+    in Montréal, Canada and an Adjunct Professor of computer science
+    at Laval University. He received a PhD in machine learning from
+    Laval University in 2019 for his work on antibiotic resistance
+    prediction in bacterial genomes. His research interests include
+    causal inference, deep learning, and bioinformatics
 - Mar 29: Jon
 - Apr 5: Frank
 - Apr 12: Akhila
