@@ -8,7 +8,7 @@ Mondays 3:30-4:30 on zoom.
 
 - Jan 11: Toby, [[file:2021-01-11-research-projects.org][How I organize my research projects]].
 - Jan 18: Holiday (no meeting).
-- Jan 25: Tristan
+- Jan 25: Tristan, PeakLearner [[https://docs.google.com/presentation/d/1p8_S8xGNJtD8bnYyyrEFbf0eL_6CLwdZecratmW7a70/edit#slide=id.gb8cd3eda24_0_6][Slides]], [[https://github.com/PeakLearner/PeakLearner][Code]]
 - Feb 1: Jon
 - Feb 8: [[https://dvvenuto.github.io/][David Venuto]], Introduction to Reinforcement Learning.
 - Feb 15: Alyssa
