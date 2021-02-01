@@ -10,7 +10,20 @@ Mondays 3:30-4:30 on zoom.
 - Jan 18: Holiday (no meeting).
 - Jan 25: Tristan, PeakLearner [[https://docs.google.com/presentation/d/1p8_S8xGNJtD8bnYyyrEFbf0eL_6CLwdZecratmW7a70/edit#slide=id.gb8cd3eda24_0_6][Slides]], [[https://github.com/PeakLearner/PeakLearner][Code]]
 - Feb 1: Jon
-- Feb 8: [[https://dvvenuto.github.io/][David Venuto]], Introduction to Reinforcement Learning.
+- Feb 8: [[https://dvvenuto.github.io/][David Venuto]], Thinking Realistically with Deep Reinforcement
+  Learning.
+  - Abstract: Reinforcement learning (RL) gives us a framework for
+    learning how to take intelligent actions in an environment
+    represented as a Markov Decision Process. Recent advances have
+    been able to learn in highly complex environments by learning
+    policies and value functions approximated with deep neural
+    networks.  These advances come with a wide set of challenges
+    including learning generalizable policies and designing good
+    reward functions.  We will first give a brief introduction to the
+    paradigm of RL and how we have leveraged deep learning to improve
+    policy optimization.  Next, we will discuss common issues in deep
+    RL and how we can learn with more robustness by leveraging expert
+    data and learning modular and hierarchical policies.
 - Feb 15: Alyssa
 - Feb 22: Frank
 - Mar 1: [[https://vincentrunge.github.io/][Vincent Runge]], TBD.
