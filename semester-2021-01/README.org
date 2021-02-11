@@ -24,11 +24,11 @@ Mondays 3:30-4:30 on zoom.
     policy optimization.  Next, we will discuss common issues in deep
     RL and how we can learn with more robustness by leveraging expert
     data and learning modular and hierarchical policies.
-- Feb 15: Alyssa
-- Feb 22: Frank
+- Feb 15: Akhila
+- Feb 22: Alyssa
 - Mar 1: [[https://vincentrunge.github.io/][Vincent Runge]], TBD.
-- Mar 8: Arnaud Liehrmann, TBD.
-- Mar 15: Akhila
+- Mar 8: Frank
+- Mar 15: Arnaud Liehrmann, TBD.
 - Mar 22: [[https://www.alexdrouin.com/][Alex Drouin]], [[https://arxiv.org/abs/2007.01754][Differentiable Causal Discovery from
   Interventional Data]]. 
   - Abstract: Knowledge of the causal structure that underlies a data
@@ -45,7 +45,7 @@ Mondays 3:30-4:30 on zoom.
     identification of the causal graph. We will present empirical
     results, along with a theoretical justification of our algorithm.
   - Short bio: Alexandre Drouin is a Research Scientist at Element AI
-    in Montréal, Canada and an Adjunct Professor of computer science
+    in MontrÃ©al, Canada and an Adjunct Professor of computer science
     at Laval University. He received a PhD in machine learning from
     Laval University in 2019 for his work on antibiotic resistance
     prediction in bacterial genomes. His research interests include
