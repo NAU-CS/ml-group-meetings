@@ -24,8 +24,8 @@ Mondays 3:30-4:30 on zoom.
     policy optimization.  Next, we will discuss common issues in deep
     RL and how we can learn with more robustness by leveraging expert
     data and learning modular and hierarchical policies.
-- Feb 15: Akhila
-- Feb 22: Alyssa
+- Feb 15: Alyssa
+- Feb 22: Akhila
 - Mar 1: [[https://vincentrunge.github.io/][Vincent Runge]], TBD.
 - Mar 8: Frank
 - Mar 15: Arnaud Liehrmann, TBD.
