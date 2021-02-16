@@ -26,7 +26,28 @@ Mondays 3:30-4:30 on zoom.
     data and learning modular and hierarchical policies.
 - Feb 15: Alyssa: [[https://www.overleaf.com/read/zwvvfxmxrvsd][FLOPART slides]]
 - Feb 22: Akhila
-- Mar 1: [[https://vincentrunge.github.io/][Vincent Runge]], TBD.
+- Mar 1: [[https://vincentrunge.github.io/][Vincent Runge]], [[https://arxiv.org/abs/2002.03646][gfpop: an R Package for multiple change-point
+  detection constrained by a graph]].
+  - Abstract: The accurate detection of multiple change-points in
+    univariate time series is a daily task for many engineers and
+    scientists. Often, practitioners can have prior knowledge about
+    the type of changes they are looking for. For example in genomic
+    data, biologists expect peaks: up changes followed by down
+    changes. Integrating such priors is important and requires
+    dedicated algorithms. We propose with the gfpop R package a
+    generic algorithm able to deal with many priors constraining the
+    successive segment means. This algorithm can be seen as a Hidden
+    Markov Chain model with continuous state space. gfpop works for a
+    user-defined graph of constraints and several loss functions:
+    Gauss, Poisson, Binomial, Biweight and Huber. This presentation
+    starts with a long introduction about multiple change-point
+    detection by penalized dynamic programming. The gfpop penalized
+    optimization problem is solved by the functional pruning optimal
+    partitioning (fpop) algorithm. This dynamic programming approach
+    returns the exact minimizer. The approximate binary segmentation
+    method can not be used with constraints on successive segments. We
+    illustrate the use of gfpop on isotonic simulations and several
+    applications in biology.
 - Mar 8: Frank
 - Mar 15: Arnaud Liehrmann, TBD.
 - Mar 22: [[https://www.alexdrouin.com/][Alex Drouin]], [[https://arxiv.org/abs/2007.01754][Differentiable Causal Discovery from
