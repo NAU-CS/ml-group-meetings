@@ -25,7 +25,7 @@ Mondays 3:30-4:30 on zoom.
     RL and how we can learn with more robustness by leveraging expert
     data and learning modular and hierarchical policies.
 - Feb 15: Alyssa: [[https://www.overleaf.com/read/zwvvfxmxrvsd][FLOPART slides]]
-- Feb 22: Akhila
+- Feb 22: Akhila, RcppDeepState [[https://docs.google.com/presentation/d/14qioA8F1tjMN2LJDLxR1ZzeCZrPFeCSVsMOKGcRxBlQ/edit#slide=id.p][ Slides]]. [[https://github.com/akhikolla/RcppDeepState][Code]], [[https://akhikolla.github.io./][Blog]]
 - Mar 1: [[https://vincentrunge.github.io/][Vincent Runge]], [[https://arxiv.org/abs/2002.03646][gfpop: an R Package for multiple change-point
   detection constrained by a graph]].
   - Abstract: The accurate detection of multiple change-points in
