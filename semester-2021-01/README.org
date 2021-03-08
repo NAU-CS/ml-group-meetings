@@ -48,7 +48,7 @@ Mondays 3:30-4:30 on zoom.
     method can not be used with constraints on successive segments. We
     illustrate the use of gfpop on isotonic simulations and several
     applications in biology.
-- Mar 8: Frank?
+- Mar 8: Tristan: PeakLearner Labeling Activity (Fail)
 - Mar 15: Arnaud Liehrmann, [[https://arxiv.org/abs/2012.06848][Increased peak detection accuracy in
   over-dispersed ChIP-seq data with supervised segmentation models]].
   - Abstract: Background: Histone modification constitutes a basic
@@ -96,7 +96,7 @@ Mondays 3:30-4:30 on zoom.
     Laval University in 2019 for his work on antibiotic resistance
     prediction in bacterial genomes. His research interests include
     causal inference, deep learning, and bioinformatics
-- Mar 29: Tristan
+- Mar 29: Frank
 - Apr 5: Jon
 - Apr 12: Alyssa
-- Apr 19: Frank
+- Apr 19: Tristan
