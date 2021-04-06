@@ -75,8 +75,8 @@ Mondays 3:30-4:30 on zoom.
     benefit researchers in the field of epigenetics by providing new
     high-quality peak prediction tracks for H3K36me3 and H3k4me3
     histone modifications.
-- Mar 22: [[https://www.alexdrouin.com/][Alex Drouin]], [[https://arxiv.org/abs/2007.01754][Differentiable Causal Discovery from
-  Interventional Data]]. 
+- Mar 22: [[https://www.alexdrouin.com/][Alex Drouin]], Differentiable Causal Discovery from
+  Interventional Data, [[https://arxiv.org/abs/2007.01754][arXiv pre-print]], [[https://www.youtube.com/watch?v=taUMuf2Fno8][video]].
   - Abstract: Knowledge of the causal structure that underlies a data
     generating process is essential to answering questions of causal
     nature. Such questions are abundant in fields that involve
