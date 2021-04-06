@@ -97,6 +97,6 @@ Mondays 3:30-4:30 on zoom.
     prediction in bacterial genomes. His research interests include
     causal inference, deep learning, and bioinformatics
 - Mar 29: Frank
-- Apr 5: Jon [[https://drive.google.com/file/d/1_8Lz6vmORPGsB27bxS37GJXe7spKFrXr/view?usp=sharing][AUM Update Presentation Slides]]
+- Apr 5: Jon [[https://drive.google.com/file/d/1_8Lz6vmORPGsB27bxS37GJXe7spKFrXr/view?usp=sharing][AUM Update Presentation Slides]], Toby [[https://github.com/tdhock/functional-pruning-theory/raw/master/HOCKING-slides.pdf][Why is functional pruning so fast for optimal changepoint detection?]]
 - Apr 12: Alyssa
 - Apr 19: Tristan
