@@ -96,7 +96,7 @@ Mondays 3:30-4:30 on zoom.
     Laval University in 2019 for his work on antibiotic resistance
     prediction in bacterial genomes. His research interests include
     causal inference, deep learning, and bioinformatics
-- Mar 29: Frank
+- Mar 29: Frank [[https://docs.google.com/presentation/d/1WDkmnMXGJMoJQojiAQfONggREmYkM49syPDXccHpXcA/edit?usp=sharing][mlr3 slides]]
 - Apr 5: Jon [[https://drive.google.com/file/d/1_8Lz6vmORPGsB27bxS37GJXe7spKFrXr/view?usp=sharing][AUM Update Presentation Slides]], Toby [[https://github.com/tdhock/functional-pruning-theory/raw/master/HOCKING-slides.pdf][Why is functional pruning so fast for optimal changepoint detection?]]
 - Apr 12: Alyssa
 - Apr 19: Tristan
