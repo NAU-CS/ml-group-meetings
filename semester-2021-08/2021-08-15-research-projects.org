@@ -1,0 +1,83 @@
+How to write and organize a research paper including reproducible code for making figures
+
+** Basic organization
+
+The unit of Computer Science discovery is the research paper, which
+describes a new idea to share with the research community. Every paper
+should contain at least five main sections
+
+- Background: what is the problem setting and data? e.g., for
+  regression the data is a n x p input/feature matrix, an n-vector of
+  outputs/labels, problem is learning a function which takes a
+  p-dimensional input/feature vector and returns a real-valued
+  output/prediction.
+- Previous work: what are the existing approaches for that problem,
+  and what are their drawbacks that motivate a new algorithm? e.g.,
+  for regression there are linear models, neural networks, boosting,
+  etc.
+- Novelty: what are the new ideas presented in the paper? Are they
+  theoretical or empirical, or both? e.g., the paper could use
+  existing models/data and present a new proof about the
+  optimality/speed of an existing algorithm, or it could use existing
+  algorithms/data with a new neural network model architecture, or it
+  could present new benchmark data sets for comparing various existing
+  algorithms/models.
+- Results: what comparisons were done to show that the new idea is
+  interesting/useful in theory and/or in practice? e.g., you could
+  compare the test accuracy and computation time for different
+  regression algorithms on various data sets.
+- Future work: what are some of your ideas for new research papers
+  that could be written as a follow up to this one? Justify why these
+  ideas are sufficiently novel that they warrant a new paper
+  describing them.
+
+** Related work table
+
+Typically for the background/novelty/results sections it is useful to
+make figures that help prove the points you are trying to make. 
+- Background/novelty: conceptual figures that explain how the
+  algorithm works (differently than previous work).
+- Results: visualizations of timings and accuracy measurements in
+  computational experiments.
+
+For the previous work section it is often useful to have a table that
+compares your new idea with previous work, e.g., for the FLOPART paper
+I am working on with Alyssa,
+
+| Method   | Publication                  | time       | model size  | labels | up-down | prediction |
+|----------+------------------------------+------------+-------------+--------+---------+------------|
+| OPART    | Jackson et al., 2005         | quadratic  | penalized   | no     | no      | yes        |
+| FPOP     | Maidstone et al., 2016       | log-linear | penalized   | no     | no      | yes        |
+| SegAnnot | Hocking and Rigaill, 2012    | quadratic  | constrained | yes    | no      | no         |
+| LOPART   | Hocking and Srivastava, 2020 | quadratic  | penalized   | yes    | no      | yes        |
+| CDPA     | Hocking et al., 2015         | quadratic  | constrained | no     | yes     | yes        |
+| GPDPA    | Hocking et al., 2020         | log-linear | constrained | no     | yes     | yes        |
+| GFPOP    | Hocking et al., 2021         | log-linear | penalized   | no     | yes     | yes        |
+| FLOPART  | THIS PAPER                   | log-linear | penalized   | yes    | yes     | yes        |
+
+** Reproducible code for figures
+
+For the figures I create a github repository for each paper.
+- figure-something-data.R creates a CSV data file needed to create the figure.
+- figure-something.R reads CSV file, creates the PNG figure file.
+- Makefile organizes the computation, typically top recipe is
+  slides.pdf which depends on all figures (useful for reproducibility).
+- README.org with links to each code/figure file (useful visual index).
+- Use LaTeX / overleaf, with "External URL" figures which are easy to
+  update after pushing to github.
+Input Data files? (e.g., large data bases to analyze)
+- dont put it in the github repo (if too big).
+- instead have a R script that downloads the data files.
+When you want to add a figure file
+- add an entry in Makefile (reproducibility)
+- add an entry in README.org (visual index)
+- add to git repo, commit, push to github (backup)
+- add to overleaf with External URL
+When you want to update a figure file
+- commit and push to github
+- go to overleaf file and click "update"
+
+EXAMPLES:
+- https://github.com/tdhock/LOPART-paper#readme
+- https://github.com/tdhock/PeakSegFPOP-paper#readme
+- https://github.com/tdhock/max-generalized-auc#readme

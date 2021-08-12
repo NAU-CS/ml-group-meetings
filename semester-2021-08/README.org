@@ -1,0 +1,12 @@
+Group meeting schedule, Fall 2021
+
+Mondays 3-4pm, second floor meeting room in building 90 (SICCS).
+
+1. your research.
+2. somebody else's paper.
+3. some useful software.
+
+- Aug 16: Toby, [[file:2021-08-15-research-projects.org][How I organize my research projects]], [[https://raw.githubusercontent.com/tdhock/functional-pruning-theory/master/HOCKING-recent-advances.pdf][Recent advances
+  in supervised optimal changepoint detection]].
+- Aug 23: Akhila: TBD.
+- Aug 30: TBD.
