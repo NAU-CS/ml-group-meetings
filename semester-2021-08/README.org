@@ -6,7 +6,27 @@ Mondays 3-4pm, second floor meeting room in building 90 (SICCS).
 2. somebody else's paper.
 3. some useful software.
 
-- Aug 16: Toby, [[file:2021-08-15-research-projects.org][How I organize my research projects]], [[https://raw.githubusercontent.com/tdhock/functional-pruning-theory/master/HOCKING-recent-advances.pdf][Recent advances
-  in supervised optimal changepoint detection]].
-- Aug 23: Akhila: TBD.
-- Aug 30: TBD.
+- Aug 16: Toby, Talk 1: [[file:2021-08-15-research-projects.org][How I organize my research projects]]. Talk 2:
+  [[https://raw.githubusercontent.com/tdhock/functional-pruning-theory/master/HOCKING-recent-advances.pdf][Recent advances in supervised optimal changepoint detection]].
+  Abstract: Changepoint detection involves detecting abrupt changes in
+  data sequences measured over space or time. Although there are many
+  classical unsupervised algorithms for this problem, several of my
+  recent research projects have involved proposing new supervised
+  labeling methods and optimization algorithms. In this talk I will
+  give an overview of these recent advances, with a discussion of
+  applications in various problem domains (medicine, genomics,
+  neuroscience).
+- Aug 23: Akhila
+- Aug 30: Anirban
+- Sept 6: Kyle
+- Sept 13: Balaji
+- Sept 20: Shadmaan
+- Sept 27: Brooke
+- Oct 5
+- Oct 12
+- Oct 19
+- Oct 26
+- Nov 2
+- Nov 9
+- Nov 16
+- Nov 23
