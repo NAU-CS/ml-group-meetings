@@ -21,11 +21,11 @@ Mondays 3-4pm, second floor meeting room in building 90 (SICCS).
 
 Abstract: R packages written in the widely used Rcpp framework are typically tested using expected input/output pairs that are manually coded by package developers. These manually written tests are validated under various CRAN checks, using both static and dynamic analysis.Such manually written tests allow for subtle bugs since they do not anticipate all possible inputs and miss important code paths.Fuzzers pass random, unexpected, potentially invalid inputs to a function, in order to identify bugs missed by manually written tests.This paper presents RcppDeepState, an R package that uses the DeepState framework to provide automatic fuzzing and symbolic execution for R packages written using the Rcpp framework.Using RcppDeepState, a package developer can systematically fuzz test their Rcpp functions, without having to manually write any inputs nor expected outputs.Randomly generated inputs are passed to each Rcpp function, and Valgrind is used to check for various memory access violations and memory leaks.In our system, a single test harness C++ code file can be used to fuzz test an Rcpp function using different backend fuzzers including AFL, libFuzzer, and HonggFuzz.For even more flexibility, R package developers can write their own random generation functions and assertions.We implemented random generation functions for 8 of the most common Rcpp data types, then used these functions to fuzz test 1,185 Rcpp packages. Valgrind reported issues for more than 2,000 functions (over nearly 500 packages) that were not detected using standard CRAN checks on manually specified test/example inputs.
 - Sept 3: Cam
-- Sept 10: LABOR DAY
-- Sept 17: Kyle
-- Sept 24: Tristan
-- Sept 27: Shadmaan
-- Oct 1: Brooke
+- Sept 10: Kyle
+- Sept 17: Tristan
+- Sept 24: Shadmaan
+- Sept 27: Brooke
+- Oct 1: 
 - Oct 8 
 - Oct 15
 - Oct 22
