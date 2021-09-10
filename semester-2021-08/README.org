@@ -26,11 +26,15 @@ Title: “Automated mapping of Gulf Sturgeon spawning habitat in Coastal Plain R
 Abstract: Gulf sturgeon (Acipenser oxyrinchus desotoi) are a threatened anadromous fish species with spawning populations found in seven Gulf of Mexico coastal plain rivers (east to west: Suwannee, Apalachicola, Choctawhatchee, Yellow, Escambia/Conecuh, Pascagoula, and Pearl/Bogue Chitto rivers).  Relatively little is known about spawning habitats located in the Pearl and Pascagoula river systems as only one confirmed spawning location has been identified.  Characterizing, locating, and quantifying existing suitable spawning habitat is critical to species recovery and restoration efforts.  This research effort will locate and quantify suitable spawning habitat by developing tools and software for processing side scan sonar data and apply (semi-) automated procedures for benthic feature classification, assess spawning habitat accessibility and use patterns, and synthesize data needed to evaluate and prioritize spawning habitat restoration projects.  
 
 - Sept 10: Kyle
+
+https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-15/issue-3/038503/Machine-learning-based-region-of-interest-detection-in-airborne-lidar/10.1117/1.JRS.15.038503.full
+
+https://www.spie.org/news/machine-learning-speeds-up-lidar-analysis-for-fishery-surveys?SSO=1 - brief news article
+Title : Airborne lidar data for fishery surveys often do not contain physics-based features that can be used to identify fish; consequently, the fish must be manually identified, which is a time-consuming process. To reduce the time required to identify fish, supervised machine learning was successfully applied to lidar data from fishery surveys to automate the process of identifying regions with a high probability of containing fish. Using data from Yellowstone Lake and the Gulf of Mexico, multiple experiments were run to simulate real-world scenarios. Although the human cannot be fully removed from the loop, the amount of data that would require manual inspection was reduced by 61.14% and 26.8% in the Yellowstone Lake and Gulf of Mexico datasets, respectively.
 - Sept 17: Tristan
-- Sept 24: Shadmaan
-- Sept 27: Brooke
-- Oct 1: 
-- Oct 8 
+- Sept 24: NO MEETING :(
+- October 1: Shadmaan
+- Oct 8: Brooke
 - Oct 15
 - Oct 22
 - Oct 29
