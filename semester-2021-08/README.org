@@ -31,9 +31,12 @@ https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/vo
 
 https://www.spie.org/news/machine-learning-speeds-up-lidar-analysis-for-fishery-surveys?SSO=1 - brief news article
 Title : Airborne lidar data for fishery surveys often do not contain physics-based features that can be used to identify fish; consequently, the fish must be manually identified, which is a time-consuming process. To reduce the time required to identify fish, supervised machine learning was successfully applied to lidar data from fishery surveys to automate the process of identifying regions with a high probability of containing fish. Using data from Yellowstone Lake and the Gulf of Mexico, multiple experiments were run to simulate real-world scenarios. Although the human cannot be fully removed from the loop, the amount of data that would require manual inspection was reduced by 61.14% and 26.8% in the Yellowstone Lake and Gulf of Mexico datasets, respectively.
-- Sept 17: Tristan
+- Sept 17:  Shadmaan, Title: Extraction of Sequence from Bangla Handwritten Numerals and Recognition Using LSTM. Abstract: For handwritten numeral recognition (HNR), fewer explorations have been done on Bangla numerals compared to other languages. Among the existing methods, several Convolutional Neural Network (CNN) based methods outperformed other methods. But CNN always gets confused with some specific Bangla numerals due to the similarity of shape and size of different numerals. 
+The main purpose of this study is to expand Bangla HNR by considering a novel methodology with a Long Short-Term Memory (LSTM) network. In the proposed method, images are thinned and a sequence is extracted. These extracted sequences are used to classify using the LSTM network. Both single-layer LSTM and Deep LSTM models are trained and performance tested on a benchmark dataset. 
+Experimental outcomes revealed that the proposed LSTM based method outperformed CNN with lower misclassification rates for the similarly shaped numerals. Finally, the proposed method achieved a test set recognition rate of 98.03% which is better than or competitive to other prominent existing methods.
+
 - Sept 24: NO MEETING :(
-- October 1: Shadmaan
+- October 1: Tristan
 - Oct 8: Brooke
 - Oct 15
 - Oct 22
