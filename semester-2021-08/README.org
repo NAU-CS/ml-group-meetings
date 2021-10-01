@@ -36,7 +36,7 @@ The main purpose of this study is to expand Bangla HNR by considering a novel me
 Experimental outcomes revealed that the proposed LSTM based method outperformed CNN with lower misclassification rates for the similarly shaped numerals. Finally, the proposed method achieved a test set recognition rate of 98.03% which is better than or competitive to other prominent existing methods.
 
 - Sept 24: NO MEETING :(
-- October 1: Tristan [PeakLearner: Interactive Genome Analysis](https://docs.google.com/presentation/d/1XCshmQZktkpBJ4fRB6eqRUt-RWNadH8DH6oLB11iQe4/edit#slide=id.gf542ca20c7_0_43)
+- October 1: Tristan [PeakLearner: Interactive Genome Analysis][https://docs.google.com/presentation/d/1XCshmQZktkpBJ4fRB6eqRUt-RWNadH8DH6oLB11iQe4/edit?usp=sharing]
 - Oct 8: Brooke
 - Oct 15
 - Oct 22
