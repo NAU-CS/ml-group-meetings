@@ -35,13 +35,13 @@ Title : Airborne lidar data for fishery surveys often do not contain physics-bas
 The main purpose of this study is to expand Bangla HNR by considering a novel methodology with a Long Short-Term Memory (LSTM) network. In the proposed method, images are thinned and a sequence is extracted. These extracted sequences are used to classify using the LSTM network. Both single-layer LSTM and Deep LSTM models are trained and performance tested on a benchmark dataset. 
 Experimental outcomes revealed that the proposed LSTM based method outperformed CNN with lower misclassification rates for the similarly shaped numerals. Finally, the proposed method achieved a test set recognition rate of 98.03% which is better than or competitive to other prominent existing methods.
 
-- Sept 24: NO MEETING :(
-- October 1: Tristan [PeakLearner: Interactive Genome Analysis][https://docs.google.com/presentation/d/1XCshmQZktkpBJ4fRB6eqRUt-RWNadH8DH6oLB11iQe4/edit?usp=sharing]
+- Sept 24: NO MEETING (SHERC seminar, Introduction to Computing at NAU)
+- October 1: Tristan, PeakLearner: Interactive Genome Analysis, https://docs.google.com/presentation/d/1XCshmQZktkpBJ4fRB6eqRUt-RWNadH8DH6oLB11iQe4/edit?usp=sharing
 - Oct 8: Brooke
-- Oct 15
-- Oct 22
-- Oct 29
-- Nov 5
-- Nov 12
-- Nov 19
-- Nov 26
+- Oct 15: Toby, Introduction to NAU's Monsoon supercomputer. [[https://tdhock.github.io/blog/2020/monsoon-batchtools/][R batchtools on Monsoon]], [[https://tdhock.github.io/blog/2019/cygwin-x-forwarding/][X forwarding on windows]], [[https://in.nau.edu/hpc/ondemand-orientation/][Monsoon OnDemand for Rstudio in a web browser]].
+- Oct 22: Akhila
+- Oct 29: Cam
+- Nov 5: Kyle
+- Nov 12: Shadmaan
+- Nov 19: Brooke
+- Nov 26: NO MEETING (day after thanksgiving)
