@@ -38,7 +38,7 @@ Experimental outcomes revealed that the proposed LSTM based method outperformed 
 - Sept 24: NO MEETING (SHERC seminar, Introduction to Computing at NAU)
 - October 1: Tristan, PeakLearner: Interactive Genome Analysis, https://docs.google.com/presentation/d/1XCshmQZktkpBJ4fRB6eqRUt-RWNadH8DH6oLB11iQe4/edit?usp=sharing
 - Oct 8: Brooke
-- Oct 15: Toby, Introduction to NAU's Monsoon supercomputer. [[https://tdhock.github.io/blog/2020/monsoon-batchtools/][R batchtools on Monsoon]], [[https://tdhock.github.io/blog/2019/cygwin-x-forwarding/][X forwarding on windows]], [[https://in.nau.edu/hpc/ondemand-orientation/][Monsoon OnDemand for Rstudio in a web browser]].
+- Oct 15: Toby, Introduction to NAU's Monsoon supercomputer. Abstract: Supercomputers are useful for machine learning experiments where there are lots of different data sets, algorithms, or hyper-parameters to try. The advantage of a super-computer is that each combination can be computed in parallel on a different CPU/GPU, and since the cluster has 100s-1000s of cores, you can get results 100s-1000s times faster. In this tutorial I will explain how to setup, launch, and interpret the results from such experiments. [[https://tdhock.github.io/blog/2020/monsoon-batchtools/][R batchtools on Monsoon]], [[https://tdhock.github.io/blog/2019/cygwin-x-forwarding/][X forwarding on windows]], [[https://in.nau.edu/hpc/ondemand-orientation/][Monsoon OnDemand for Rstudio in a web browser]].
 - Oct 22: Akhila
 - Oct 29: Cam
 - Nov 5: Kyle
