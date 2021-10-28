@@ -49,6 +49,16 @@ Slides : https://docs.google.com/presentation/d/1z5eN88HSpeMgJ0g4oZF4Z91GS9F5eSa
 https://docs.google.com/presentation/d/1Gky0qKWYgmbzTs3CUuMAv9gI7dnMzNenfalyZj8Yejw/edit?usp=sharing
 
 - Oct 29: Cam
+
+Title: Computing accurate depth estimates from side scan sonar data with machine learning: two case studies
+
+Abstract: Side scan sonar is a technology used to image physical conditions in aquatic systems (lakes, rivers, oceans, estuaries, etc.) which can then be georectified to spatially locate features (rock outcrops, ship wrecks, aquatic plants, etc.) in a Geographic Information System (GIS).  Accurate depth estimates from the sonar instrument to the aquatic bed are needed to remove the water column from the sonar image for accurate georectification.  The sonar system estimates the depth from a down-facing sonar, but these estimates are often inaccurate due to objects suspended in the water column, interference from the survey vessel, or high water turbidity.  This presentation will provide a primer on side scan sonar image characteristics, factors affecting depth estimates, the importance of accurate estimates, and two approaches for automatically estimating depth using machine learning from recent publications1,2. 
+
+1: Yan, J., Meng, J., & Zhao, J. (2021). Bottom detection from backscatter data of conventional side scan sonars through 1d-unet. Remote Sensing, 13(5). https://doi.org/10.3390/rs13051024
+
+2: Zheng, G., Zhang, H., Li, Y., & Zhao, J. (2021). A Universal Automatic Bottom Tracking Method of Side Scan Sonar Data Based on Semantic Segmentation. Remote Sensing, 13(10), 1945. https://doi.org/10.3390/rs13101945
+
+
 - Nov 5: Kyle 
 - Nov 12: Shadmaan
 - Nov 19: Brooke
