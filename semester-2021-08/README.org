@@ -48,9 +48,7 @@ Slides : https://docs.google.com/presentation/d/1z5eN88HSpeMgJ0g4oZF4Z91GS9F5eSa
 - Oct 22: Kyle - Ethical discussion of UMN gettting banned from the Linux kernel
 https://docs.google.com/presentation/d/1Gky0qKWYgmbzTs3CUuMAv9gI7dnMzNenfalyZj8Yejw/edit?usp=sharing
 
-- Oct 29: Cam
-
-Title: Computing accurate depth estimates from side scan sonar data with machine learning: two case studies
+- Oct 29: Cam, Title: Computing accurate depth estimates from side scan sonar data with machine learning: two case studies.
 
 Abstract: Side scan sonar is a technology used to image physical conditions in aquatic systems (lakes, rivers, oceans, estuaries, etc.) which can then be georectified to spatially locate features (rock outcrops, ship wrecks, aquatic plants, etc.) in a Geographic Information System (GIS).  Accurate depth estimates from the sonar instrument to the aquatic bed are needed to remove the water column from the sonar image for accurate georectification.  The sonar system estimates the depth from a down-facing sonar, but these estimates are often inaccurate due to objects suspended in the water column, interference from the survey vessel, or high water turbidity.  This presentation will provide a primer on side scan sonar image characteristics, factors affecting depth estimates, the importance of accurate estimates, and two approaches for automatically estimating depth using machine learning from recent publications1,2. 
 
@@ -59,7 +57,7 @@ Abstract: Side scan sonar is a technology used to image physical conditions in a
 2: Zheng, G., Zhang, H., Li, Y., & Zhao, J. (2021). A Universal Automatic Bottom Tracking Method of Side Scan Sonar Data Based on Semantic Segmentation. Remote Sensing, 13(10), 1945. https://doi.org/10.3390/rs13101945
 
 
-- Nov 5: Kyle 
+- Nov 5: Toby, Title: Optimizing ROC Curves with a Sort-Based Surrogate Loss Function for Binary Classification and Changepoint Detection. Abstract: Receiver Operating Characteristic (ROC) curves are plots of true positive rate versus false positive rate which are useful for evaluating binary classification models, but difficult to use for learning since the Area Under the Curve (AUC) is non-convex. ROC curves can also be used in other problems that have false positive and true positive rates such as changepoint detection. We show that in this more general context, the ROC curve can have loops, points with highly sub-optimal error rates, and AUC greater than one. This observation motivates a new optimization objective: rather than maximizing the AUC, we would like a monotonic ROC curve with AUC=1 that avoids points with large values for Min(FP,FN). We propose a convex relaxation of this objective that results in a new surrogate loss function called the AUM, short for Area Under Min(FP, FN). Whereas previous loss functions are based on summing over all labeled examples or pairs, the AUM requires a sort and a sum over the sequence of points on the ROC curve. We show that AUM directional derivatives can be efficiently computed and used in a gradient descent learning algorithm. In our empirical study of supervised binary classification and changepoint detection problems, we show that our new AUM minimization learning algorithm results in improved AUC and comparable speed relative to previous baselines. Pre-print https://arxiv.org/abs/2107.01285, slides https://github.com/tdhock/max-generalized-auc/raw/master/HOCKING-slides.pdf
 - Nov 12: Shadmaan
 - Nov 19: Brooke
 - Nov 26: NO MEETING (day after thanksgiving)
