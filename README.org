@@ -13,3 +13,4 @@ Advice on preparing talks/slides
 Ideas for talks
 
 - https://developers.google.com/machine-learning/guides/rules-of-ml
+- https://github.com/probml/pml-book/releases/latest/download/book1.pdf
