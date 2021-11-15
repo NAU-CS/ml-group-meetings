@@ -9,3 +9,7 @@
 Advice on preparing talks/slides
 
 - https://emilyriederer.netlify.app/post/writing-a-tech-talk/
+
+Ideas for talks
+
+- https://developers.google.com/machine-learning/guides/rules-of-ml
