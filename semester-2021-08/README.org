@@ -31,7 +31,6 @@ https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/vo
 
 https://www.spie.org/news/machine-learning-speeds-up-lidar-analysis-for-fishery-surveys?SSO=1 - brief news article
 Title : Airborne lidar data for fishery surveys often do not contain physics-based features that can be used to identify fish; consequently, the fish must be manually identified, which is a time-consuming process. To reduce the time required to identify fish, supervised machine learning was successfully applied to lidar data from fishery surveys to automate the process of identifying regions with a high probability of containing fish. Using data from Yellowstone Lake and the Gulf of Mexico, multiple experiments were run to simulate real-world scenarios. Although the human cannot be fully removed from the loop, the amount of data that would require manual inspection was reduced by 61.14% and 26.8% in the Yellowstone Lake and Gulf of Mexico datasets, respectively.
-
 - Sept 17: Shadmaan 
 
 [[https://docs.google.com/presentation/d/1jeC1i35OLzwOYXLid9itD7jRmn-ddy3ljgAKdu-8MM4/edit?usp=sharing][Slides]], [[https://ieeexplore.ieee.org/document/9230921][ Paper]]
@@ -41,15 +40,32 @@ Title : Airborne lidar data for fishery surveys often do not contain physics-bas
 [[Abstract]] 
 For handwritten numeral recognition (HNR), fewer explorations have been done on Bangla numerals compared to other languages. Among the existing methods, several Convolutional Neural Network (CNN) based methods outperformed other methods. But CNN always gets confused with some specific Bangla numerals due to the similarity of shape and size of different numerals. 
 The main purpose of this study is to expand Bangla HNR by considering a novel methodology with a Long Short-Term Memory (LSTM) network. In the proposed method, images are thinned and a sequence is extracted. These extracted sequences are used to classify using the LSTM network. Both single-layer LSTM and Deep LSTM models are trained and performance tested on a benchmark dataset. 
-Experimental outcomes revealed that the proposed LSTM based method outperformed CNN with lower misclassification rates for the similarly shaped numerals. Finally, the proposed method achieved a test set recognition rate of 98.03% which is better than or competitive to other prominent existing methods.
 
-- Sept 24: NO MEETING :(
-- October 1: Tristan
+Experimental outcomes revealed that the proposed LSTM based method outperformed CNN with lower misclassification rates for the similarly shaped numerals. Finally, the proposed method achieved a test set recognition rate of 98.03% which is better than or competitive to other prominent existing methods.
+- Sept 24: NO MEETING (SHERC seminar, Introduction to Computing at NAU)
+- October 1: Tristan, PeakLearner: Interactive Genome Analysis, https://docs.google.com/presentation/d/1XCshmQZktkpBJ4fRB6eqRUt-RWNadH8DH6oLB11iQe4/edit?usp=sharing
+
 - Oct 8: Brooke
-- Oct 15
-- Oct 22
-- Oct 29
-- Nov 5
-- Nov 12
-- Nov 19
-- Nov 26
+Abstract:
+Title: Analyzing Label Data on Contigs Using data.table
+
+Data.table is a function and a package unique to the R-coding language that allows the user to download and create a data table from a file. Data.table has various input values that allow flexibility for the user and can perform various analysis functions and manipulations. Data.table can be used, for example, to identify the number of contigs per chromosome, and allows for comparative analysis of the output data. My current research utilizes data.table to analyze labels created on PeakLearner, a machine learning system. This allows us to identify peaks on a cell sample and allows geneticists to determine where there are specific binding sites of proteins on DNA. We can then analyze our current algorithm to determine how many labels have been created per contig, and allow us to determine the efficacy of our model.
+Slides : https://docs.google.com/presentation/d/1z5eN88HSpeMgJ0g4oZF4Z91GS9F5eSav9qxbN83URGY/edit?usp=sharing
+
+- Oct 15: Toby, Introduction to NAU's Monsoon supercomputer. Abstract: Supercomputers are useful for machine learning experiments where there are lots of different data sets, algorithms, or hyper-parameters to try. The advantage of a super-computer is that each combination can be computed in parallel on a different CPU/GPU, and since the cluster has 100s-1000s of cores, you can get results 100s-1000s times faster. In this tutorial I will explain how to setup, launch, and interpret the results from such experiments. [[https://tdhock.github.io/blog/2020/monsoon-batchtools/][R batchtools on Monsoon]], [[https://tdhock.github.io/blog/2019/cygwin-x-forwarding/][X forwarding on windows]], [[https://in.nau.edu/hpc/ondemand-orientation/][Monsoon OnDemand for Rstudio in a web browser]].
+- Oct 22: Kyle - Ethical discussion of UMN gettting banned from the Linux kernel
+https://docs.google.com/presentation/d/1Gky0qKWYgmbzTs3CUuMAv9gI7dnMzNenfalyZj8Yejw/edit?usp=sharing
+
+- Oct 29: Cam, Title: Computing accurate depth estimates from side scan sonar data with machine learning: two case studies.
+
+Abstract: Side scan sonar is a technology used to image physical conditions in aquatic systems (lakes, rivers, oceans, estuaries, etc.) which can then be georectified to spatially locate features (rock outcrops, ship wrecks, aquatic plants, etc.) in a Geographic Information System (GIS).  Accurate depth estimates from the sonar instrument to the aquatic bed are needed to remove the water column from the sonar image for accurate georectification.  The sonar system estimates the depth from a down-facing sonar, but these estimates are often inaccurate due to objects suspended in the water column, interference from the survey vessel, or high water turbidity.  This presentation will provide a primer on side scan sonar image characteristics, factors affecting depth estimates, the importance of accurate estimates, and two approaches for automatically estimating depth using machine learning from recent publications1,2. 
+
+1: Yan, J., Meng, J., & Zhao, J. (2021). Bottom detection from backscatter data of conventional side scan sonars through 1d-unet. Remote Sensing, 13(5). https://doi.org/10.3390/rs13051024
+
+2: Zheng, G., Zhang, H., Li, Y., & Zhao, J. (2021). A Universal Automatic Bottom Tracking Method of Side Scan Sonar Data Based on Semantic Segmentation. Remote Sensing, 13(10), 1945. https://doi.org/10.3390/rs13101945
+
+
+- Nov 5: Toby, Title: Optimizing ROC Curves with a Sort-Based Surrogate Loss Function for Binary Classification and Changepoint Detection. Abstract: Receiver Operating Characteristic (ROC) curves are plots of true positive rate versus false positive rate which are useful for evaluating binary classification models, but difficult to use for learning since the Area Under the Curve (AUC) is non-convex. ROC curves can also be used in other problems that have false positive and true positive rates such as changepoint detection. We show that in this more general context, the ROC curve can have loops, points with highly sub-optimal error rates, and AUC greater than one. This observation motivates a new optimization objective: rather than maximizing the AUC, we would like a monotonic ROC curve with AUC=1 that avoids points with large values for Min(FP,FN). We propose a convex relaxation of this objective that results in a new surrogate loss function called the AUM, short for Area Under Min(FP, FN). Whereas previous loss functions are based on summing over all labeled examples or pairs, the AUM requires a sort and a sum over the sequence of points on the ROC curve. We show that AUM directional derivatives can be efficiently computed and used in a gradient descent learning algorithm. In our empirical study of supervised binary classification and changepoint detection problems, we show that our new AUM minimization learning algorithm results in improved AUC and comparable speed relative to previous baselines. Pre-print https://arxiv.org/abs/2107.01285, slides https://github.com/tdhock/max-generalized-auc/raw/master/HOCKING-slides.pdf
+- Nov 12: Shadmaan
+- Nov 19: Brooke
+- Nov 26: NO MEETING (day after thanksgiving)
