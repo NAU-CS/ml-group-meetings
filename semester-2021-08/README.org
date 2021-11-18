@@ -66,6 +66,17 @@ Abstract: Side scan sonar is a technology used to image physical conditions in a
 
 
 - Nov 5: Toby, Title: Optimizing ROC Curves with a Sort-Based Surrogate Loss Function for Binary Classification and Changepoint Detection. Abstract: Receiver Operating Characteristic (ROC) curves are plots of true positive rate versus false positive rate which are useful for evaluating binary classification models, but difficult to use for learning since the Area Under the Curve (AUC) is non-convex. ROC curves can also be used in other problems that have false positive and true positive rates such as changepoint detection. We show that in this more general context, the ROC curve can have loops, points with highly sub-optimal error rates, and AUC greater than one. This observation motivates a new optimization objective: rather than maximizing the AUC, we would like a monotonic ROC curve with AUC=1 that avoids points with large values for Min(FP,FN). We propose a convex relaxation of this objective that results in a new surrogate loss function called the AUM, short for Area Under Min(FP, FN). Whereas previous loss functions are based on summing over all labeled examples or pairs, the AUM requires a sort and a sum over the sequence of points on the ROC curve. We show that AUM directional derivatives can be efficiently computed and used in a gradient descent learning algorithm. In our empirical study of supervised binary classification and changepoint detection problems, we show that our new AUM minimization learning algorithm results in improved AUC and comparable speed relative to previous baselines. Pre-print https://arxiv.org/abs/2107.01285, slides https://github.com/tdhock/max-generalized-auc/raw/master/HOCKING-slides.pdf
+
 - Nov 12: Shadmaan
+
+[[https://docs.google.com/presentation/d/1wW67A2T8s_lE5MStdNT1I_WVHFeEKpqQsjUcYsHiBqY/edit?usp=sharing][Slides]]
+
+[[Title]]: Evaluation of Features Influencing School Growth through Predictive Modeling
+
+[[Abstract]] 
+Predictive modeling is a statistical technique using machine learning and data mining that works by analyzing historical and existing data and generating a model to predict likely future outcomes. In the study, various features of schools in different districts of Missouri state are provided as the data. The main objective is to analyze the significant features influencing school growth through the application of machine learning models. The research also proposes a comprehensive comparison of the models with baseline models.
+
+This presentation will outline a preliminary research methodology for calculating the feature importance value. This approach employs linear regression models namely the Lasso regression model, Ordinal Forest, Ordinal net, and others. The preliminary findings give considerable insight into the factors that influence school growth.
+
 - Nov 19: Brooke
 - Nov 26: NO MEETING (day after thanksgiving)
