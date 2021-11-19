@@ -1,5 +1,6 @@
 [[http://ml.nau.edu][Machine learning research lab]] group meetings
 
+- [[file:semester-2022-01/README.org][Spring 2022]]
 - [[file:semester-2021-08/README.org][Fall 2021]]
 - [[file:semester-2021-01/README.org][Spring 2021]]
 - [[file:semester-2020-08/README.org][Fall 2020]]
