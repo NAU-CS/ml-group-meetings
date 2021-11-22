@@ -87,3 +87,5 @@ Ggplot is an r function that allows the user to create a visual plot from a set 
 Link to slides: https://docs.google.com/presentation/d/1FH9njiCun3SQ5krZ4sKkXaJIAmD5ciG7d24VuQW8L2g/edit?usp=sharing
 
 - Nov 26: NO MEETING (day after thanksgiving)
+
+- Dec 3: Anirban Chetia, TBD.
