@@ -7,7 +7,7 @@ http://whenisgood.net/4rzrwzz/results/jydnfk7
 2. somebody else's paper.
 3. some useful software.
 
-- Jan 14: Toby.
+- Jan 14: Toby, [[https://github.com/NAU-CS/ml-group-meetings/blob/master/semester-2021-08/2021-08-15-research-projects.org][foo]]
 - Jan 21
 - Jan 28
 - Feb 4
