@@ -58,8 +58,8 @@ I am working on with Alyssa,
 ** Reproducible code for figures
 
 For the figures I create a github repository for each paper.
-- figure-something-data.R creates a CSV data file needed to create the figure.
-- figure-something.R reads CSV file, creates the PNG figure file.
+- figure-something-data.R creates a CSV data file needed to create the figure. (long running computations)
+- figure-something.R reads CSV file, creates the PNG figure file. (very quick, so easy to edit figure visual properties if necessary)
 - Makefile organizes the computation, typically top recipe is
   slides.pdf which depends on all figures (useful for reproducibility).
 - README.org with links to each code/figure file (useful visual index).
