@@ -8,7 +8,7 @@ http://whenisgood.net/4rzrwzz/results/jydnfk7
 3. some useful software.
 
 - Jan 14: Toby, [[https://github.com/NAU-CS/ml-group-meetings/blob/master/semester-2021-08/2021-08-15-research-projects.org][How to write and organize a research paper including reproducible code for making figures]].
-- Jan 21: Cam.
+- Jan 21: Cam, How to quickly generate labeled images for training maching and deep learning algorithms with Doodler; [[https://github.com/dbuscombe-usgs/dash_doodler/blob/main/README.md][Doodler Github Repo]]; [[https://doi.org/10.31223/X59K83][Earth ArXiv Preprint]]
 - Jan 28: Anirban. Overleaf? Tricks in R?
 - Feb 4: Jon.
 - Feb 11: Brooke
