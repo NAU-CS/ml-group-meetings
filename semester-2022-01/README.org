@@ -11,8 +11,8 @@ http://whenisgood.net/4rzrwzz/results/jydnfk7
 - Jan 21: Cam, How to quickly generate labeled images for training maching and deep learning algorithms with Doodler; [[https://github.com/dbuscombe-usgs/dash_doodler/blob/main/README.md][Doodler Github Repo]]; [[https://doi.org/10.31223/X59K83][Earth ArXiv Preprint]]
 - Jan 28: Toby, overview of peer review and writing a convincing reviewer response.
 - Feb 4: Anirban. Overleaf? Tricks in R?
-- Feb 11: Brooke
-- Feb 18: Kyle
+- Feb 11: Kyle
+- Feb 18: Brooke
 - Feb 25: Tayler
 - Mar 4: Jacob
 - Mar 11 Jon
