@@ -19,3 +19,4 @@ Ideas for talks
 - Hyperparameter optimization with approximate gradient, https://arxiv.org/pdf/1602.02355.pdf
 - Deep Implicit Layers Tutorial at NeurIPS 2020, http://implicit-layers-tutorial.org/
 - anything from the Sussex PAL reading group, https://wearepal.ai/reading
+- Intro to jax in Python, https://jax.readthedocs.io/en/latest/notebooks/quickstart.html
