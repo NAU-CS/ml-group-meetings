@@ -20,3 +20,4 @@ Ideas for talks
 - Deep Implicit Layers Tutorial at NeurIPS 2020, http://implicit-layers-tutorial.org/
 - anything from the Sussex PAL reading group, https://wearepal.ai/reading
 - Intro to jax in Python, https://jax.readthedocs.io/en/latest/notebooks/quickstart.html
+- Tutorial how to use Tensor Processing Units (TPUs), https://cloud.google.com/tpu/docs/tpus
