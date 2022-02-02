@@ -18,3 +18,4 @@ Ideas for talks
 - Efficient and Modular Implicit Differentiation, https://arxiv.org/abs/2105.15183
 - Hyperparameter optimization with approximate gradient, https://arxiv.org/pdf/1602.02355.pdf
 - Deep Implicit Layers Tutorial at NeurIPS 2020, http://implicit-layers-tutorial.org/
+- anything from the Sussex PAL reading group, https://wearepal.ai/reading
