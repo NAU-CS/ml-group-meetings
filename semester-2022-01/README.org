@@ -11,7 +11,7 @@ http://whenisgood.net/4rzrwzz/results/jydnfk7
 - Jan 21: Cam, How to quickly generate labeled images for training maching and deep learning algorithms with Doodler; [[https://github.com/dbuscombe-usgs/dash_doodler/blob/main/README.md][Doodler Github Repo]]; [[https://doi.org/10.31223/X59K83][Earth ArXiv Preprint]]
 - Jan 28: Toby, overview of peer review and writing a convincing reviewer response.
 [[https://raw.githubusercontent.com/NAU-CS/ml-group-meetings/master/semester-2022-01/whiteboard-peer-review.jpg]]
-- Feb 4: Anirban. Overleaf? Tricks in R?
+- Feb 4: Anirban. Overleaf? Tricks in R? Toby's General Usage Rubrics (good coding requirements in class) for [[https://docs.google.com/document/d/1W6-HdQLgHayOFXaQtscO5J5yf05G7E6KeXyiBJFcT7A/edit?usp=sharing][Unsupervised Learning in R]] and [[https://docs.google.com/document/d/1wLejtG_CU-Gcc5LGBt8woliCd4DyDOfu0ZgCY2HYa0A/edit][Deep Learning in Python]]. See also [[https://tdhock.github.io/blog/2021/c-book/][my blog post about stringize macro in C]] and [[https://atrebas.github.io/post/2019-03-03-datatable-dplyr/][a comparison between dplyr and data.table syntax for data manipulation]].
 - Feb 11: Kyle
 - Feb 18: Brooke
 - Feb 25: Tayler
