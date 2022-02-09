@@ -15,6 +15,7 @@ Ideas for talks
 
 - https://developers.google.com/machine-learning/guides/rules-of-ml
 - anything from the Murphy book, https://github.com/probml/pml-book/releases/latest/download/book1.pdf
+- Causality for Machine Learning https://arxiv.org/abs/1911.10500
 - Efficient and Modular Implicit Differentiation, https://arxiv.org/abs/2105.15183
 - Hyperparameter optimization with approximate gradient, https://arxiv.org/pdf/1602.02355.pdf
 - Deep Implicit Layers Tutorial at NeurIPS 2020, http://implicit-layers-tutorial.org/
