@@ -19,7 +19,7 @@ https://docs.google.com/presentation/d/1dJINrKnJI-mhl9M_EifEy9je8qwG_mIcdJMlUG4X
 Title: Code to Analyze the Efficiency of Current Peak Prediction Algorithms
 
 Abstract: While machine learning algorithms are much more efficient in detecting peaks than manually doing so, one important factor to be evaluated is the uncertainty in their accuracy. Looking at this accuracy is important in determining if the algorithm is working as well as it is intended to. Analyzing the errors in the algorithm by code that prints images of these errors allows one to visually see if the errors in the algorithm are caused by the algorithm, by human error, or by a combination of the two. This allows us to determine if the algorithm is working as well as intended.
-- Feb 25: Tayler
+- Feb 25: Tayler: link to slides - https://docs.google.com/presentation/d/1sWGUx9Er9DWOEgK11_vPGdDJMIO3sRB6ta6LRYIQbKA/edit?usp=sharing
 - Mar 4: Jacob
 - Mar 11 Jon
 - Mar 18: Spring Break!
