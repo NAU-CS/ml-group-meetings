@@ -23,3 +23,4 @@ Ideas for talks
 - Intro to jax in Python, https://jax.readthedocs.io/en/latest/notebooks/quickstart.html
 - Tutorial how to use Tensor Processing Units (TPUs), https://cloud.google.com/tpu/docs/tpus
 - Jenny Bryan on R debugging and minimal reproducible examples, https://www.youtube.com/watch?v=vgYS-F8opgE
+- https://github.com/ReeceGoding/Frustration-One-Year-With-R
