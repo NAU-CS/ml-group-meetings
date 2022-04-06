@@ -26,5 +26,5 @@ Abstract: While machine learning algorithms are much more efficient in detecting
 - Mar 25: Toby: Advanced C++ coding techniques used in the binsegRcpp package. Abstract: binary segmentation is a classic algorithm for detecting changepoints in sequential data. In theory it should be extremely fast for N data and K segments, O(N K) in the worst case, and O(N log K) in the best case. In practice existing implementations such as ruptures (Python module) and changepoint (R package) are much slower, and in fact sometimes do not return a correct result. In this talk I will present the binsegRcpp package, which provides an efficient implementation of binary segmentation, and always returns correct results. I will also discuss some advanced C++ coding techniques (Standard Template Library containers, virtual classes, static variables, function pointers, templates, macros) which I used to avoid repetition, for efficiency, and for readability. Slides explaining binary segmentation: https://github.com/tdhock/cs499-599-fall-2021/raw/main/slides/07-binary-segmentation.pdf binsegRcpp source code: https://github.com/tdhock/binsegRcpp analysis figures/code: https://github.com/tdhock/binseg-model-selection
 - Apr 1: Cancelled.
 - Apr 8: Kyle
-- Apr 15: Jacob
-- Apr 22: Tayler
+- Apr 15: Tayler?
+- Apr 22: Jacob
