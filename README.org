@@ -25,3 +25,4 @@ Ideas for talks
 - Jenny Bryan on R debugging and minimal reproducible examples, https://www.youtube.com/watch?v=vgYS-F8opgE
 - https://github.com/ReeceGoding/Frustration-One-Year-With-R
 - Changepoint review paper https://arxiv.org/pdf/2012.12814.pdf
+- https://github.com/matloff/TidyverseSkeptic/blob/master/READMEFull.md
