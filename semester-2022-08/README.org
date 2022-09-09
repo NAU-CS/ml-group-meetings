@@ -21,9 +21,9 @@ What to present?
   million observations or more, which are now common in areas such as
   genomics.
 - Sep 16: Daniel.
-- Sep 23: Cam.
-- Sep 30: Kyle.
-- Oct 7: Jadon.
+- Sep 23: Kyle
+- Sep 30: Jadon
+- Oct 7: Cam.
 - Oct 14: 
 - Oct 21: Toby out of town.
 - Oct 28:
