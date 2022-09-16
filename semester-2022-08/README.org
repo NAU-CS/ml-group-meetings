@@ -20,7 +20,7 @@ What to present?
   algorithms can be used for analysis of huge data sequences, with ten
   million observations or more, which are now common in areas such as
   genomics.
-- Sep 16: Daniel.
+- Sep 16: Daniel, Title: *Ghana and me*. This is a presentation about myself and the culture of the West Arican country, Ghana. Slides:     https://github.com/EngineerDanny/microbe-network-research/raw/main/Fall-2022/week-1/Ghana-and-me.pptx. My second presentation will be about the research paper "Network Analysis Methods for studying microbial communities : A mini review". Slides: *#TODO*
 - Sep 23: Kyle
 - Sep 30: Jadon
 - Oct 7: Cam.
