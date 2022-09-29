@@ -22,7 +22,8 @@ What to present?
   genomics.
 - Sep 16: Daniel, Title: *Ghana and me*. This is a presentation about myself and the culture of the West Arican country, Ghana. Slides:     https://github.com/EngineerDanny/microbe-network-research/raw/main/Fall-2022/week-1/Ghana-and-me.pptx. My second presentation will be about the research paper "Network Analysis Methods for studying microbial communities : A mini review". Slides: https://github.com/EngineerDanny/microbe-network-research/raw/main/Fall-2022/week-1/network-analysis-presentation.pptx
 - Sep 23: Kyle
-- Sep 30: Jadon
+- Sep 30: Jadon, Title: /Optimizing Looping ROC Curves/. We’ll discuss Area Under ROC Curves, and showcase how real world data can lead to loops within our ROC curves. We will also go over a surrogate loss function for AUC, called Area Under Min(FP, FN) (AUM), that we can use to optimize these looping ROC curves. Finally, we’ll look at ongoing research for efficient AUM optimization: replacing the quadratic time exact line search with a log-linear time approximation.
+
 - Oct 7: Cam.
 - Oct 14: 
 - Oct 21: Toby out of town.
