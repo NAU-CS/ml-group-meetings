@@ -25,7 +25,7 @@ What to present?
 - Sep 30: Jadon, Title: /Optimizing Looping ROC Curves/. We’ll discuss Area Under ROC Curves, and showcase how real world data can lead to loops within our ROC curves. We will also go over a surrogate loss function for AUC, called Area Under Min(FP, FN) (AUM), that we can use to optimize these looping ROC curves. Finally, we’ll look at ongoing research for efficient AUM optimization: replacing the quadratic time exact line search with a log-linear time approximation. Links: [[https://github.com/phase/cs685/blob/trunk/CS%20685%20-%20Optimizing%20Looping%20ROC%20Curves.pdf][Slides]], [[https://arxiv.org/pdf/2107.01285.pdf][AUM paper]]
 
 - Oct 7: Cam.
-- Oct 14: Bilal.
+- Oct 14: Group photo? Bilal presentation?
 - Oct 21: Toby out of town.
 - Oct 28: Toby.
 - Nov 4: Daniel.
