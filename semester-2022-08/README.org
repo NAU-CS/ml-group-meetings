@@ -27,7 +27,7 @@ What to present?
 - Oct 7: Cam practice exam talk.
 - Oct 14: Group photo? Bilal Aslam, Title: on-road Carbon Emission estimation using a regression model. AbstractL In my model I tried to predict the Annual Average Daily Traffic (AADT) from Population Density, Sentinel-2 Optical Bands, Road Density and Nighttime Light Data. I will be presenting details about my datasets, my model and results. I understand my work might not be presentable or accurate to present in your lab at the moment, but it will help me to understand my weaknesses and can give me a way forward. Please let me know if you have any questions or need more information.
 - Oct 21: Toby out of town.
-- Oct 28: Toby.
+- Oct 28: Gabi. 
 - Nov 4: Daniel.
 - Nov 11: Jadon.
 - Nov 18: Cam.
