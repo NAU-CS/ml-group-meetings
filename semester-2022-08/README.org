@@ -28,7 +28,7 @@ What to present?
 - Oct 14: Group photo? Bilal Aslam, Title: on-road Carbon Emission estimation using a regression model. AbstractL In my model I tried to predict the Annual Average Daily Traffic (AADT) from Population Density, Sentinel-2 Optical Bands, Road Density and Nighttime Light Data. I will be presenting details about my datasets, my model and results. I understand my work might not be presentable or accurate to present in your lab at the moment, but it will help me to understand my weaknesses and can give me a way forward. Please let me know if you have any questions or need more information.
 - Oct 21: Toby out of town.
 - Oct 28: Gabi. 
-- Nov 4: Daniel.
+- Nov 4: Daniel, Title: *LASSO Regression* modeling on prediction of medical terms among seafarers’ health documents using tidy text mining. I will be presenting on the literature review of the [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8945331/#B37-bioengineering-09-00124][research paper]]. Links: [[https://github.com/EngineerDanny/CS685-Microbe-Network-Research/blob/main/Fall-2022/week-10/ML-Lab-Presentation.pptx?raw=true][Slides]].
 - Nov 11: Jadon.
 - Nov 18: Cam.
 - Nov 25: Thanksgiving holiday.
