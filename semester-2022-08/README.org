@@ -30,6 +30,6 @@ What to present?
 - Oct 28: Gabi. 
 - Nov 4: Daniel, Title: *LASSO Regression* modeling on prediction of medical terms among seafarers’ health documents using tidy text mining. I will be presenting on the literature review of the [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8945331/#B37-bioengineering-09-00124][research paper]]. Links: [[https://github.com/EngineerDanny/CS685-Microbe-Network-Research/blob/main/Fall-2022/week-10/ML-Lab-Presentation.pptx?raw=true][Slides]].
 - Nov 11: Veteran's Day Holiday.
-- Nov 18: Bilal practice PHD exam 1.
+- Nov 18: Bilal practice PHD exam 1. I will be presenting my Comprehensive Exam presentation. It will be 25 minutes long. It's basically the overview of my proposed idea of research, why it's important, what research gap I am trying to fill and what will be my research objectives.
 - Nov 25: Thanksgiving holiday.
 - Dec 2: Kyle practice master thesis defense.
