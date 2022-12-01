@@ -32,4 +32,4 @@ What to present?
 - Nov 11: Veteran's Day Holiday.
 - Nov 18: Bilal practice PHD exam 1. I will be presenting my Comprehensive Exam presentation. It will be 25 minutes long. It's basically the overview of my proposed idea of research, why it's important, what research gap I am trying to fill and what will be my research objectives.
 - Nov 25: Thanksgiving holiday.
-- Dec 2: Kyle practice master thesis defense.
+- Dec 2: Kyle practice master thesis defense- Abstract: This research study will propose functional representations of the square and square-hinge loss. The study will contain the necessary background to understand the problem, theoretical analysis of the proposed algorithm, empirical studies to demonstrate their value, and a discussion of future work. The results of this study will show that it is now possible to use the square/squared hinge loss with gradient descent learning and large batch sizes to achieve better model performance metrics. [[https://github.com/rustky/masters-thesis/blob/main/Masters_Thesis_Presentation.pdf][Slide Deck]]
