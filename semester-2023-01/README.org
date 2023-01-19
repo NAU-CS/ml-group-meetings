@@ -7,7 +7,7 @@ What to present?
 2. somebody else's paper.
 3. some useful software.
 
-- Jan 19: Toby, Title: [[file:HOCKING-berkeley-pres-jan-2023.pdf][Cross-validation for training and testing co-occurence network inference algorithms]]. [[https://pln-team.github.io/slideshow/slides#63][PLNmodels slides]], [[https://proceedings.mlr.press/v97/chiquet19a.html][ICML'19 paper]]. 
+- Jan 19: Toby, Title: [[file:HOCKING-berkeley-pres-jan-2023.pdf][Cross-validation for training and testing co-occurence network inference algorithms]]. Can we evaluate Chiquet's algorithm using cross-validation? [[https://pln-team.github.io/slideshow/slides#63][PLNmodels slides]], [[https://proceedings.mlr.press/v97/chiquet19a.html][ICML'19 paper]]. 
 - Jan 26: Jadon
 - Feb 2: Daniel
 - Feb 9: Cam
