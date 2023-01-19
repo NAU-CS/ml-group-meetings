@@ -8,19 +8,19 @@ What to present?
 3. some useful software.
 
 - Jan 19: Toby, Title: [[file:HOCKING-berkeley-pres-jan-2023.pdf][Cross-validation for training and testing co-occurence network inference algorithms]]. Can we evaluate Chiquet's algorithm using cross-validation? [[https://pln-team.github.io/slideshow/slides#63][PLNmodels slides]], [[https://proceedings.mlr.press/v97/chiquet19a.html][ICML'19 paper]]. 
-- Jan 26: Jadon
-- Feb 2: Daniel
+- Jan 26: Bilal
+- Feb 2: Jadon
 - Feb 9: Cam
-- Feb 16: Austin
-- Feb 23: Toby
-- Mar 2: Jadon
-- Mar 9: Daniel
+- Feb 16: Daniel
+- Feb 23: Austin
+- Mar 2: 
+- Mar 9: 
 - Mar 16: Spring Break!
-- Mar 23: Cam
-- Mar 30: Austin
-- Apr 6: Toby
-- Apr 13: Jadon
-- Apr 20: Daniel
-- Apr 27: Cam
-- May 4: Austin
+- Mar 23: 
+- Mar 30: 
+- Apr 6: 
+- Apr 13: 
+- Apr 20: 
+- Apr 27: 
+- May 4: 
 - May 11: Toby JSM talk. Title: Efficient line search optimization of penalty functions in supervised changepoint detection. Abstract: Receiver Operating Characteristic (ROC) curves are commonly used in binary classification, and can also be used to evaluate learned penalty functions in the context of supervised changepoint detection. Since the Area Under the Curve (AUC) is a piecewise constant function of the predicted values, it can not be directly optimized by gradient descent. Recently we showed that minimizing a piecewise linear surrogate loss, AUM (Area Under Min of false positives and false negatives), results in maximizing AUC. In this talk we propose a new algorithm for AUM minimization, which exploits the piecewise linear structure to efficiently compute an exact line search, for every step of gradient descent. Because the exact line search is quadratic time in the worst case, we additionally propose an approximate line search which is log-linear time in the worst case (asymptotically the same as a constant step size). Our empirical results show that the proposed algorithm is more computationally efficient than other variants of gradient descent (constant step size, line search using grid search, etc).
