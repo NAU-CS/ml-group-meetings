@@ -1,0 +1,26 @@
+Group meeting schedule, Spring 2023
+
+Time 2:30-3:30pm on Thursday afternoons in [[https://nauedu-prod.modolabs.net/campus_map/map/index?state=detail&feed=campus_buildings_2021_v5&id=d2bb1e0a-4b88-5944-9466-68744bdcd981][Building 90]] (SICCS), room 224, 
+
+What to present?
+1. your research.
+2. somebody else's paper.
+3. some useful software.
+
+- Jan 19: Toby, Title: [[file:HOCKING-berkeley-pres-jan-2023.pdf][Cross-validation for training and testing co-occurence network inference algorithms]]. [[https://pln-team.github.io/slideshow/slides#63][PLNmodels slides]], [[https://proceedings.mlr.press/v97/chiquet19a.html][ICML'19 paper]]. 
+- Jan 26: Jadon
+- Feb 2: Daniel
+- Feb 9: Cam
+- Feb 16: Austin
+- Feb 23: Toby
+- Mar 2: Jadon
+- Mar 9: Daniel
+- Mar 16: Spring Break!
+- Mar 23: Cam
+- Mar 30: Austin
+- Apr 6: Toby
+- Apr 13: Jadon
+- Apr 20: Daniel
+- Apr 27: Cam
+- May 4: Austin
+- May 11: Toby
