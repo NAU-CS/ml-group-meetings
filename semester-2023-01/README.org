@@ -14,7 +14,7 @@ What to present?
 - Feb 16: Daniel
 - Feb 23: Austin
 - Mar 2: Karl
-- Mar 9: 
+- Mar 9: Thopalli, Kowshik <thopalli1@llnl.gov> invited talk on computer vision.
 - Mar 16: Spring Break!
 - Mar 23: 
 - Mar 30: 
