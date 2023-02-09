@@ -13,8 +13,9 @@ What to present?
 - Feb 9: Cam, Title: "Open-source tools for mapping with recreation-grade sonar: Case study on Gulf sturgeon spawning habitat in the Pearl and Pascagoula river systems" Overview: I will provide a short background on the use of recreation-grade side scan sonar (SSS) to map river substrates for the purpose of locating suitable spawning substrates for the threatened Gulf sturgeon. I will then provide an update on progress I am making on training deep learning models to automatically segment substrates from the sonar imagery including developing training datasets, hyper-parameter tuning, and preliminary results from cross validation.
 - Feb 16: Daniel
 - Feb 23: Austin
+- Feb 27 (special Monday meeting), 1pm: ROOM CHANGE: SICCS 102. Professor [[https://www.cs.ubc.ca/~schmidtm/][Mark Schmidt]] visiting from UBC CS, talk about optimization algorithms for machine learning (Title and Abstract TBD).
 - Mar 2: Karl
-- Mar 9: Thopalli, Kowshik <thopalli1@llnl.gov> invited talk on computer vision.
+- Mar 9: ROOM CHANGE: SICCS 102. LLNL postdoc [[https://kowshikthopalli.github.io/][Kowshik Thopalli]] <thopalli1@llnl.gov> invited talk on computer vision (Title and Abstract TBD).
 - Mar 16: Spring Break!
 - Mar 23: 
 - Mar 30: 
