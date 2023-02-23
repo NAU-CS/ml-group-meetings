@@ -12,19 +12,18 @@ What to present?
 - Feb 2: Jadon, Title: [[file:Fowler-Exact-Line-Search-for-AUM.pdf][Exact Line Search for AUM]]. I'll talk about Area Under ROC Curves (AUC) and a differentiable surrogate loss function for AUC known as the Area Under Min(False Positives, False Negatives). Different line search methods will be shown, including an exact line search that was the result of my research last semester. An explanation of this algorithm will be given with a description of the future work I'll be doing this semester.
 - Feb 9: Cam, Title: "Open-source tools for mapping with recreation-grade sonar: Case study on Gulf sturgeon spawning habitat in the Pearl and Pascagoula river systems" Overview: I will provide a short background on the use of recreation-grade side scan sonar (SSS) to map river substrates for the purpose of locating suitable spawning substrates for the threatened Gulf sturgeon. I will then provide an update on progress I am making on training deep learning models to automatically segment substrates from the sonar imagery including developing training datasets, hyper-parameter tuning, and preliminary results from cross validation.
 - Feb 16: Karl, I will actually be doing two presentations this afternoon. The first will be a 2.5 minute scripted presentation that I am doing for $$$.  It is very high level and nearly no detail will be included.  Please ask questions about the mechanics and biomechanics that are unclear. This will help me out a lot. The second presentation will be the machine learning that I used on my last major project, which will form the core of my PhD defense. Title:Predicting Neuromuscular Engagement to Improve Gait Training with a Robotic Ankle Exoskeleton Overview:  I will go over how I chose the model architectures to test, the study protocols, the results and the huge number of surprise challenges that changed my goals for the study. View my pre-registered hypotheses there https://osf.io/y6ghp?mode=&revisionId=&view_only=
-- Feb 22: (special Weds meeting), 11:30AM: ROOM CHANGE: SICCS 223. Hitesh Sapotka ML prof job interview talk.
-- Feb 23: Austin
+- Feb 23: Cancelled (snow day).
+- Feb 24: (special Fri meeting), 11:30AM: ROOM CHANGE: SICCS 223. Hitesh Sapotka ML prof job interview talk. Zoom:  https://nau.zoom.us/j/6458547519?pwd=UGgvRU8yWkdiRmFSbzdsQjVRd0FGdz09
 - Feb 27: (special Monday meeting), 10:30AM: ROOM CHANGE: SICCS 102. Rui Yu ML prof job interview talk.
 - Feb 27 (special Monday meeting), 1pm: ROOM CHANGE: SICCS 102. Professor [[https://www.cs.ubc.ca/~schmidtm/][Mark Schmidt]] visiting from UBC CS, title: Faster Algorithms for Deep Learning? Abstract: The last 10 years have seen a revolution in stochastic gradient methods, with variance-reduced methods like SAG/SVRG provably achieving faster convergence rates than all previous methods. These methods give dramatic speedups in a variety of applications, but have had virtually no impact to the practice of training deep models. We hypothesize that this is due to the over-parameterized nature of modern deep learning models, where the models are so powerful that they could fit every training example with zero error (at least theoretically). Such over-parameterization nullifies the benefits of variance-reduced methods, because in some sense it leads to "easier" optimization problems. In this work, we present algorithms specifically designed for over-parameterized models. This leads to methods that provably achieve Nesterov acceleration, methods that automatically tune the step-size as they learn, and methods that achieve superlinear convergence with second-order information. 
-- Mar 2: Daniel
-- Mar 6: (special Monday meeting), 10:30AM: ROOM CHANGE: SICCS 102. Mehak Gupta ML prof job interview talk.
-- Mar 9: ROOM CHANGE: SICCS 102. LLNL postdoc [[https://kowshikthopalli.github.io/][Kowshik Thopalli]] <thopalli1@llnl.gov> invited talk on computer vision (Title and Abstract TBD).
+- Mar 2: ROOM CHANGE: SICCS 102. LLNL postdoc [[https://kowshikthopalli.github.io/][Kowshik Thopalli]] <thopalli1@llnl.gov> invited talk on computer vision (Title and Abstract TBD).
+- Mar 9: No meeting (week before spring break).
 - Mar 16: Spring Break!
-- Mar 23: 
-- Mar 30: 
-- Apr 6: 
-- Apr 13: 
-- Apr 20: 
-- Apr 27: 
-- May 4: 
+- Mar 23: Daniel 
+- Mar 30: Austin
+- Apr 6: Bilal
+- Apr 13: Jadon
+- Apr 20: Cam
+- Apr 27: Karl
+- May 4: Daniel
 - May 11: Toby JSM talk. Title: Efficient line search optimization of penalty functions in supervised changepoint detection. Abstract: Receiver Operating Characteristic (ROC) curves are commonly used in binary classification, and can also be used to evaluate learned penalty functions in the context of supervised changepoint detection. Since the Area Under the Curve (AUC) is a piecewise constant function of the predicted values, it can not be directly optimized by gradient descent. Recently we showed that minimizing a piecewise linear surrogate loss, AUM (Area Under Min of false positives and false negatives), results in maximizing AUC. In this talk we propose a new algorithm for AUM minimization, which exploits the piecewise linear structure to efficiently compute an exact line search, for every step of gradient descent. Because the exact line search is quadratic time in the worst case, we additionally propose an approximate line search which is log-linear time in the worst case (asymptotically the same as a constant step size). Our empirical results show that the proposed algorithm is more computationally efficient than other variants of gradient descent (constant step size, line search using grid search, etc).
