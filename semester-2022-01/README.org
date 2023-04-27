@@ -9,7 +9,12 @@ http://whenisgood.net/4rzrwzz/results/jydnfk7
 
 - Jan 14: Toby, [[https://github.com/NAU-CS/ml-group-meetings/blob/master/semester-2021-08/2021-08-15-research-projects.org][How to write and organize a research paper including reproducible code for making figures]].
 - Jan 21: Cam, How to quickly generate labeled images for training maching and deep learning algorithms with Doodler; [[https://github.com/dbuscombe-usgs/dash_doodler/blob/main/README.md][Doodler Github Repo]]; [[https://doi.org/10.31223/X59K83][Earth ArXiv Preprint]]
-- Jan 28: Toby, overview of peer review and writing a convincing reviewer response.
+- Jan 28: Toby, overview of peer review and writing a convincing reviewer response. 
+  - Examples of reviewer responses:
+    - [[https://docs.google.com/document/d/1YtwOXFm0B5vO19TSbESu5b0ocSICR2y8YE5c2N11qHw/edit?usp=sharing][response]] for [[https://jmlr.org/papers/v21/18-843.html][Constrained Dynamic Programming and Supervised Penalty Learning Algorithms for Peak Detection in Genomic Data]].
+    - [[https://docs.google.com/document/d/1k0nIOlPo2ZL1LZZkabPHIlIPv5YfDGc2L64pagpjpU4/edit][response 1]], [[https://docs.google.com/document/d/1kZAltbvj_gm_Q00ROCu28Nn_hpqCIuAXdSGZkV7aAwY/edit#heading=h.3xj867jpemdv][response 2]] for [[https://link.springer.com/epdf/10.1007/s00180-022-01238-z?sharing_token=GJ9zkjjv-W4-LazygaaIfve4RwlQNchNByi7wbcMAY59oum0iPmk8ZeMBg5BNKokqMW3frH9DtaJj7FJA4N3noqieSafe7BH1LmjIVSlRsVvtILmB6czs_i35I_-iqzYCwvXXfb-IUAwFXFJhGnhUXrZXyKommDekpI3N3jtdk8=][Labeled optimal partitioning]].
+    - [[https://docs.google.com/document/d/1uwBR6GG-alAvDW0t1ggRwF0YP0FzVmOQLmc7QdVvJ2o/edit#heading=h.7y7h4zkbvgd4][response]] for [[https://jmlr.org/papers/v24/21-0751.html][Optimizing ROC Curves with a Sort-Based Surrogate Loss for Binary Classification and Changepoint Detection]].
+  - Figure that we drew on the white board explaining the hierarchy of people involved in peer review:
 [[https://raw.githubusercontent.com/NAU-CS/ml-group-meetings/master/semester-2022-01/whiteboard-peer-review.jpg]]
 - Feb 4: Anirban. Overleaf? Tricks in R? Toby's General Usage Rubrics (good coding requirements in class) for [[https://docs.google.com/document/d/1W6-HdQLgHayOFXaQtscO5J5yf05G7E6KeXyiBJFcT7A/edit?usp=sharing][Unsupervised Learning in R]] and [[https://docs.google.com/document/d/1wLejtG_CU-Gcc5LGBt8woliCd4DyDOfu0ZgCY2HYa0A/edit][Deep Learning in Python]]. See also [[https://tdhock.github.io/blog/2021/c-book/][my blog post about stringize macro in C]] and [[https://atrebas.github.io/post/2019-03-03-datatable-dplyr/][a comparison between dplyr and data.table syntax for data manipulation]].
 - Feb 11: Kyle
