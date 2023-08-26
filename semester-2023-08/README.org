@@ -9,6 +9,21 @@ What to present?
 3. some useful software.
 
 4. Aug 30: Toby.
+   - Title: Using the NAU Monsoon super computer cluster for research.
+   - Abstract: Monsoon is a super computer cluster which gives 4000
+     CPUs to NAU researchers (including graduate students) for free
+     use. In this talk I will explain how to use it for computational
+     research, using examples from my NSF POSE project about expanding
+     the open-source ecosystem around R data.table. First, NAU Monsoon
+     was used to implement a daily report that summarizes reverse
+     dependency check issues for R data.table, which simplifies
+     release management since data.table developers no longer have to
+     do these time-consuming results on their personal computers
+     (compiling nightly R-devel + checking more than 1400
+     packages). Second, NAU Monsoon was also used to implement
+     asymptotic benchmarks for CSV read/write functions, which allowed
+     identifying and fixing performance bugs in base R (quadratic time
+     reduced to linear time).
    - Cross-validation experiments on the NAU Monsoon cluster using [[https://tdhock.github.io/blog/2022/cross-validation-cluster/][python]] and [[https://tdhock.github.io/blog/2020/monsoon-batchtools/][R]].
    - data.table revdep-checks on NAU Monsoon, [[https://github.com/Rdatatable/data.table/wiki/Release-management-and-revdep-checks][wiki instructions]], [[https://rcdata.nau.edu/genomic-ml/data.table-revdeps/analyze/][analyze results directory]], [[https://github.com/tdhock/data.table-revdeps][source code]].
    - asymptotic timings of data.table and similar R functions, [[https://rcdata.nau.edu/genomic-ml/atime/vignettes/reproducible/][reproducible results directory]], [[https://github.com/tdhock/atime][atime R package]], [[https://github.com/tdhock/atime/issues?q=is%3Aissue+][issues]], [[https://stat.ethz.ch/pipermail/r-devel/2023-March/082506.html][discussion on R-devel email list]].
