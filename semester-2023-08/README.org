@@ -8,7 +8,7 @@ What to present?
 2. somebody else's paper.
 3. some useful software.
 
-4. Aug 30: Toby.
+- Aug 30: Toby.
    - Title: Using the NAU Monsoon super computer cluster for research.
    - Abstract: Monsoon is a super computer cluster which gives 4000
      CPUs to NAU researchers (including graduate students) for free
@@ -27,19 +27,19 @@ What to present?
    - Cross-validation experiments on the NAU Monsoon cluster using [[https://tdhock.github.io/blog/2022/cross-validation-cluster/][python]] and [[https://tdhock.github.io/blog/2020/monsoon-batchtools/][R]].
    - data.table revdep-checks on NAU Monsoon, [[https://github.com/Rdatatable/data.table/wiki/Release-management-and-revdep-checks][wiki instructions]], [[https://rcdata.nau.edu/genomic-ml/data.table-revdeps/analyze/][analyze results directory]], [[https://github.com/tdhock/data.table-revdeps][source code]].
    - asymptotic timings of data.table and similar R functions, [[https://rcdata.nau.edu/genomic-ml/atime/vignettes/reproducible/][reproducible results directory]], [[https://github.com/tdhock/atime][atime R package]], [[https://github.com/tdhock/atime/issues?q=is%3Aissue+][issues]], [[https://stat.ethz.ch/pipermail/r-devel/2023-March/082506.html][discussion on R-devel email list]].
-5. Sep 6: 
-6. Sep 13:
-7. Sep 20:
-8. Sep 27:
-9. Oct 4:
-10. Oct 11:
-11. Oct 18: Toby out of town, presenting data.table tutorial at [[https://latin-r.com/][LatinR]] conference.
-12. Oct 25:
-13. Nov 1:
-14. Nov 8:
-15. Nov 15:
-16. Nov 22:
-17. Nov 29:
-18. Dec 6: reading week.
-19. Apr 13: finals week.
-20. Date TBD. ROOM CHANGE: SICCS 102. LLNL postdoc [[https://kowshikthopalli.github.io/][Kowshik Thopalli]] <thopalli1@llnl.gov> invited talk Title: Improving Out-of-distribution Generalization of Deep Vision Models: Test-time and Train-time Adaptation Strategies. Abstract: This talk will focus on understanding and improving the robustness of deep vision models when training and testing data are drawn from different distributions To overcome this challenge, a common protocol has emerged, which involves adapting models at test-time with limited target data.  I will first discuss a novel “align then adapt” approach that effectively exploits latent space to adapt models without requiring access to source data. This method is highly effective across multiple architectures, complex distributions shifts, and modalities. However, in cases where extremely limited target data is available, test-time approaches may fail. I will consider the extreme case where only one target reference sample is available and present our efforts in designing effective generative augmentation protocol that involves finetuning a generator with single-shot data and developing a source-free adaptation protocol with the synthetic data. Finally, in certain practical scenarios test-time adaption can be cumbersome and often we don’t have access to any target data. To address this, I will present a train-time protocol that utilizes data from multiple source domains to build generalizable computer vision models through a novel meta-learning paradigm.  This approach is theoretically motivated and achieves excellent performance on more than 6 different datasets compared to a several state-of-the-art baselines. Thus, through this talk, I will present a suite of techniques to improve the out-of-distribution generalization of models for various computer vision tasks. 
+- Sep 6:
+- Sep 13:
+- Sep 20:
+- Sep 27:
+- Oct 4:
+- Oct 11:
+- Oct 18: Toby out of town, presenting data.table tutorial at [[https://latin-r.com/][LatinR]] conference.
+- Oct 25:
+- Nov 1:
+- Nov 8:
+- Nov 15:
+- Nov 22:
+- Nov 29:
+- Dec 6: reading week.
+- Apr 13: finals week.
+- Date TBD. ROOM CHANGE: SICCS 102. LLNL postdoc [[https://kowshikthopalli.github.io/][Kowshik Thopalli]] <thopalli1@llnl.gov> invited talk Title: Improving Out-of-distribution Generalization of Deep Vision Models: Test-time and Train-time Adaptation Strategies. Abstract: This talk will focus on understanding and improving the robustness of deep vision models when training and testing data are drawn from different distributions To overcome this challenge, a common protocol has emerged, which involves adapting models at test-time with limited target data.  I will first discuss a novel “align then adapt” approach that effectively exploits latent space to adapt models without requiring access to source data. This method is highly effective across multiple architectures, complex distributions shifts, and modalities. However, in cases where extremely limited target data is available, test-time approaches may fail. I will consider the extreme case where only one target reference sample is available and present our efforts in designing effective generative augmentation protocol that involves finetuning a generator with single-shot data and developing a source-free adaptation protocol with the synthetic data. Finally, in certain practical scenarios test-time adaption can be cumbersome and often we don’t have access to any target data. To address this, I will present a train-time protocol that utilizes data from multiple source domains to build generalizable computer vision models through a novel meta-learning paradigm.  This approach is theoretically motivated and achieves excellent performance on more than 6 different datasets compared to a several state-of-the-art baselines. Thus, through this talk, I will present a suite of techniques to improve the out-of-distribution generalization of models for various computer vision tasks. 
