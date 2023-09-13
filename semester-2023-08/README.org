@@ -28,7 +28,7 @@ What to present?
    - data.table revdep-checks on NAU Monsoon, [[https://github.com/Rdatatable/data.table/wiki/Release-management-and-revdep-checks][wiki instructions]], [[https://rcdata.nau.edu/genomic-ml/data.table-revdeps/analyze/][analyze results directory]], [[https://github.com/tdhock/data.table-revdeps][source code]].
    - asymptotic timings of data.table and similar R functions, [[https://rcdata.nau.edu/genomic-ml/atime/vignettes/reproducible/][reproducible results directory]], [[https://github.com/tdhock/atime][atime R package]], [[https://github.com/tdhock/atime/issues?q=is%3Aissue+][issues]], [[https://stat.ethz.ch/pipermail/r-devel/2023-March/082506.html][discussion on R-devel email list]].
 - Sep 6: Bilal, *Title*: Discussion about what I have done so far in my research and way forward. I will be discussing my AADT regression model and its results. Also, I will show result from my object based classification model to detect the vehicles. TODO post slides please. [[https://tdhock.github.io/blog/2022/generalization-to-new-subsets/][Generalizing to new subsets blog post]]
-- Sep 13: Doris, Title: *My Experience*. I will  be talking about where I use to work in Ghana, what they do and how i contributed to the industry. Slides:[[][MySlides]] .
+- Sep 13: Doris, Title: *My Experience*. I will  be talking about where I use to work in Ghana, what they do and how i contributed to the industry. Slides:[[https://onedrive.live.com/edit.aspx?resid=2DAB32D2B9160995!111&cid=2dab32d2b9160995&CT=1694621111663&OR=ItemsView][MySlides]] .
 - Sep 20: Trevor, related papers.
 - Sep 27: Danny, research.
 - Oct 4: Richard.
