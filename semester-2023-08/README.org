@@ -30,7 +30,7 @@ What to present?
 - Sep 6: Bilal, *Title*: Discussion about what I have done so far in my research and way forward. I will be discussing my AADT regression model and its results. Also, I will show result from my object based classification model to detect the vehicles. TODO post slides please. [[https://tdhock.github.io/blog/2022/generalization-to-new-subsets/][Generalizing to new subsets blog post]]
 - Sep 13: Doris, Title: *My Experience*. I will  be talking about where I use to work in Ghana, what they do and how i contributed to the industry. Slides:[[https://onedrive.live.com/edit.aspx?resid=2DAB32D2B9160995!111&cid=2dab32d2b9160995&CT=1694621111663&OR=ItemsView][MySlides]]
 - Sep 20: Richard.
-- Sep 27: Danny, I will talk mainly about my new results on my main research which is titled "Cross-validation for Training and Testing Co-occurrence Network Inference Algorithms".
+- Sep 27: Danny, I will talk mainly about my new results on my research which is titled "Cross-validation for Training and Testing Co-occurrence Network Inference Algorithms".
 - Oct 4: Trevor, related papers.
 - Oct 11: Ani. 
 - Oct 18: Toby out of town, presenting data.table tutorial at [[https://latin-r.com/][LatinR]] conference.
