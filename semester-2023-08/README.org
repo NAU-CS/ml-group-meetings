@@ -27,12 +27,30 @@ What to present?
    - Cross-validation experiments on the NAU Monsoon cluster using [[https://tdhock.github.io/blog/2022/cross-validation-cluster/][python]] and [[https://tdhock.github.io/blog/2020/monsoon-batchtools/][R]].
    - data.table revdep-checks on NAU Monsoon, [[https://github.com/Rdatatable/data.table/wiki/Release-management-and-revdep-checks][wiki instructions]], [[https://rcdata.nau.edu/genomic-ml/data.table-revdeps/analyze/][analyze results directory]], [[https://github.com/tdhock/data.table-revdeps][source code]].
    - asymptotic timings of data.table and similar R functions, [[https://rcdata.nau.edu/genomic-ml/atime/vignettes/reproducible/][reproducible results directory]], [[https://github.com/tdhock/atime][atime R package]], [[https://github.com/tdhock/atime/issues?q=is%3Aissue+][issues]], [[https://stat.ethz.ch/pipermail/r-devel/2023-March/082506.html][discussion on R-devel email list]].
-- Sep 6: Bilal, *Title*: Discussion about what I have done so far in my research and way forward. I will be discussing my AADT regression model and its results. Also, I will show result from my object based classification model to detect the vehicles. TODO post slides please. [[https://tdhock.github.io/blog/2022/generalization-to-new-subsets/][Generalizing to new subsets blog post]]
-- Sep 13: Doris, Title: *My Experience*. I will  be talking about where I use to work in Ghana, what they do and how i contributed to the industry. Slides:[[https://onedrive.live.com/edit.aspx?resid=2DAB32D2B9160995!111&cid=2dab32d2b9160995&CT=1694621111663&OR=ItemsView][MySlides]]
-- Sep 20: Richard.
-- Sep 27: Danny, I will talk mainly about my new results on my research which is titled "Cross-validation for Training and Testing Co-occurrence Network Inference Algorithms". [[https://github.com/EngineerDanny/CS685-Microbe-Network-Research/blob/main/slides/CV%20for%20Eval%20Net%20Inference%20Algos%20Update.pdf][Link to slides]]
+- Sep 6: Bilal, *Title*: Discussion about what I have done so far in
+  my research and way forward. I will be discussing my AADT regression
+  model and its results. Also, I will show result from my object based
+  classification model to detect the vehicles. TODO post slides
+  please. [[https://tdhock.github.io/blog/2022/generalization-to-new-subsets/][Generalizing to new subsets blog post]]
+- Sep 13: Doris, Title: *My Experience*. I will be talking about where
+  I use to work in Ghana, what they do and how i contributed to the
+  industry. Slides:[[https://onedrive.live.com/edit.aspx?resid=2DAB32D2B9160995!111&cid=2dab32d2b9160995&CT=1694621111663&OR=ItemsView][MySlides]]
+- Sep 20: Richard: predicting agriculture from satellite data.
+- Sep 27: Danny, I will talk mainly about my new results on my
+  research which is titled "Cross-validation for Training and Testing
+  Co-occurrence Network Inference Algorithms". [[https://github.com/EngineerDanny/CS685-Microbe-Network-Research/blob/main/slides/CV%20for%20Eval%20Net%20Inference%20Algos%20Update.pdf][Link to slides]]
 - Oct 4: Trevor, related papers. Slides:[[https://docs.google.com/presentation/d/1tUpxdZGkVT8ExU1zJv9PpPxdnp51Uhb4zzwJMc55qmI/edit?usp=sharing][My Slides]]
-- Oct 11: Ani. 
+- Oct 11: a brief tutorial about R data.table, in preparation for my tutorial at the LatinR conference on 18 Oct. (see below)
+  https://latin-r.com/cronograma/tutoriales/#using-and-contributing-to-the-data.table-package-for-efficient-big-data-analysis
+  Description: data.table is one of the most efficient open-source in-memory data manipulation packages available today. First released to CRAN by Matt Dowle in 2006, it continues to grow in popularity, and now over 1400 other CRAN packages depend on data.table. This three hour tutorial will start with data reading from CSV, discuss basic and advanced data manipulation topics, and finally will end with a discussion about how you can contribute to data.table. In each part of the tutorial, you will be asked to solve a few exercises, to practice each new concept.
+  Outline:
+    - Efficiently reading CSV files into R: fread
+    - Introducing general form of a data.table query - DT[i, j, by], or for those familiar with SQL: DT[where, select|update, group by]
+    - Subsets and joins - exploring similarities between subsets and joins is key to understanding how data.table works.
+    - Fast and flexible grouped aggregations and updates
+    - quick look at other new and useful features in the recent releases, including CSV file writer (fwrite) and rolling/non-equi joins.
+    - Using data.table in your own package that you want to put on CRAN.
+    - Contributing to data.table via issues, pull requests, translations, travel awards, community governance.
 - Oct 18: Toby out of town, presenting data.table tutorial at [[https://latin-r.com/][LatinR]] conference.
 - Oct 25:
 - Nov 1:
