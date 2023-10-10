@@ -40,7 +40,7 @@ What to present?
   research which is titled "Cross-validation for Training and Testing
   Co-occurrence Network Inference Algorithms". [[https://github.com/EngineerDanny/CS685-Microbe-Network-Research/blob/main/slides/CV%20for%20Eval%20Net%20Inference%20Algos%20Update.pdf][Link to slides]]
 - Oct 4: Trevor, related papers. Slides:[[https://docs.google.com/presentation/d/1tUpxdZGkVT8ExU1zJv9PpPxdnp51Uhb4zzwJMc55qmI/edit?usp=sharing][My Slides]]
-- Oct 11: a brief tutorial about R data.table, in preparation for my tutorial at the LatinR conference on 18 Oct. (see below)
+- Oct 11: Toby, a brief tutorial about R data.table, in preparation for my tutorial at the LatinR conference on 18 Oct. (see below)
   https://latin-r.com/cronograma/tutoriales/#using-and-contributing-to-the-data.table-package-for-efficient-big-data-analysis
   Description: data.table is one of the most efficient open-source in-memory data manipulation packages available today. First released to CRAN by Matt Dowle in 2006, it continues to grow in popularity, and now over 1400 other CRAN packages depend on data.table. This three hour tutorial will start with data reading from CSV, discuss basic and advanced data manipulation topics, and finally will end with a discussion about how you can contribute to data.table. In each part of the tutorial, you will be asked to solve a few exercises, to practice each new concept.
   Outline:
