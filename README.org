@@ -16,6 +16,10 @@ Advice on preparing talks/slides
 
 Ideas for talks
 
+- When there are new people in lab at the beginning of a semester, tutorial about
+  - git
+  - data.table
+  - ggplot2
 - Z. Yang, Q. Xu, S. Bao, X. Cao, and Q. Huang. Learning with multiclass auc: Theory and algorithms. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021.
 - https://developers.google.com/machine-learning/guides/rules-of-ml
 - anything from the Murphy book, https://github.com/probml/pml-book/releases/latest/download/book1.pdf
