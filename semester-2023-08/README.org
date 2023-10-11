@@ -52,12 +52,12 @@ What to present?
     - Using data.table in your own package that you want to put on CRAN.
     - Contributing to data.table via issues, pull requests, translations, travel awards, community governance.
 - Oct 18: Toby out of town, presenting data.table tutorial at [[https://latin-r.com/][LatinR]] conference.
-- Oct 25:
-- Nov 1:
-- Nov 8:
-- Nov 15:
-- Nov 22:
-- Nov 29:
-- Dec 6: reading week.
+- Oct 25: Karl, TBD.
+- Nov 1: Bilal, practice exam.
+- Nov 8: Paul, experience doing regression analysis as an analyst in higher education.
+- Nov 15: Ani
+- Nov 22: Doris
+- Nov 29: Danny
+- Dec 6: Trevor
 - Apr 13: finals week.
 - Date TBD. ROOM CHANGE: SICCS 102. LLNL postdoc [[https://kowshikthopalli.github.io/][Kowshik Thopalli]] <thopalli1@llnl.gov> invited talk Title: Improving Out-of-distribution Generalization of Deep Vision Models: Test-time and Train-time Adaptation Strategies. Abstract: This talk will focus on understanding and improving the robustness of deep vision models when training and testing data are drawn from different distributions To overcome this challenge, a common protocol has emerged, which involves adapting models at test-time with limited target data.  I will first discuss a novel “align then adapt” approach that effectively exploits latent space to adapt models without requiring access to source data. This method is highly effective across multiple architectures, complex distributions shifts, and modalities. However, in cases where extremely limited target data is available, test-time approaches may fail. I will consider the extreme case where only one target reference sample is available and present our efforts in designing effective generative augmentation protocol that involves finetuning a generator with single-shot data and developing a source-free adaptation protocol with the synthetic data. Finally, in certain practical scenarios test-time adaption can be cumbersome and often we don’t have access to any target data. To address this, I will present a train-time protocol that utilizes data from multiple source domains to build generalizable computer vision models through a novel meta-learning paradigm.  This approach is theoretically motivated and achieves excellent performance on more than 6 different datasets compared to a several state-of-the-art baselines. Thus, through this talk, I will present a suite of techniques to improve the out-of-distribution generalization of models for various computer vision tasks. 
