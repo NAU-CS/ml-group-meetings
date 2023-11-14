@@ -54,8 +54,11 @@ What to present?
 - Oct 18: Toby out of town, presenting data.table tutorial at [[https://latin-r.com/][LatinR]] conference.
 - Oct 25: Karl, TBD.
 - Nov 1: Bilal, practice exam.
-- Nov 8: Bruce
-- Nov 15: Ani
+- Nov 8: Interactive data viz discussion.
+  - Bilal: prediction accuracy of traffic between regions.
+  - Toby: [[https://tdhock.github.io/2023-11-interval-regression-differences/][Area Under the ROC curve for change-point detection]].
+  - Danny: [[https://engineerdanny.github.io/EngineerDanny-necromass-figure-one-network/][Interactions between microbes]].
+- Nov 15: Cam?
 - Nov 22: Doris
 - Nov 29: Danny
 - Dec 6: Trevor
