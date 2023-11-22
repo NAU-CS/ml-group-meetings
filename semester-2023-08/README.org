@@ -59,7 +59,7 @@ What to present?
   - Toby: [[https://tdhock.github.io/2023-11-interval-regression-differences/][Area Under the ROC curve for change-point detection]].
   - Danny: [[https://engineerdanny.github.io/EngineerDanny-necromass-figure-one-network/][Interactions between microbes]].
 - Nov 15: Cam?
-- Nov 22: Danny: Using Monsoon in ML workflow
+- Nov 22: Danny: [[https://github.com/EngineerDanny/ml_with_monsoon/blob/main/Using%20Monsoon%20in%20ML%20workflow.pdf][Using Monsoon in ML workflow]], code used in presentation is available on this [[https://github.com/EngineerDanny/ml_with_monsoon][repository]].
 - Nov 29: Doris
 - Dec 6: Trevor
 - Date TBD  Paul, experience doing regression analysis as an analyst in higher education.
