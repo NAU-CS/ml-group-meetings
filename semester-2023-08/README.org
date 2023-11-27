@@ -53,7 +53,7 @@ What to present?
     - Contributing to data.table via issues, pull requests, translations, travel awards, community governance.
 - Oct 18: Toby out of town, presenting data.table tutorial at [[https://latin-r.com/][LatinR]] conference.
 - Oct 25: Karl, TBD.
-- Nov 1: Bilal, practice exam.
+- Nov 1: Bilal, practice exam. I will be defending my Candidacy Exam on Thursday, November 16. During the lab, I will be conducting a practice talk that I intend to present on the exam day.
 - Nov 8: Interactive data viz discussion.
   - Bilal: prediction accuracy of traffic between regions.
   - Toby: [[https://tdhock.github.io/2023-11-interval-regression-differences/][Area Under the ROC curve for change-point detection]].
