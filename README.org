@@ -22,7 +22,7 @@ Ideas for talks
   - git
   - data.table
   - ggplot2
-- Grad student reading group https://heather.cs.ucdavis.edu/artofml/draft.pdf
+- Grad student reading group [[https://class.lambdamd.org/pdsr/][Programming for Data Science in R]]
 - Z. Yang, Q. Xu, S. Bao, X. Cao, and Q. Huang. Learning with multiclass auc: Theory and algorithms. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021.
 - https://developers.google.com/machine-learning/guides/rules-of-ml
 - anything from the Murphy book, https://github.com/probml/pml-book/releases/latest/download/book1.pdf
