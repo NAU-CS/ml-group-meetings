@@ -16,6 +16,7 @@ Advice on preparing talks/slides
 
 Ideas for talks
 
+- https://github.com/mlabonne/llm-course
 - https://github.com/microsoft/generative-ai-for-beginners
 - https://github.com/microsoft/ML-For-Beginners
 - When there are new people in lab at the beginning of a semester, tutorial about
