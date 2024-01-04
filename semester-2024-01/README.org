@@ -1,0 +1,42 @@
+Group meeting schedule, Spring 2024
+
+Time 10-11am on Tuesday mornings in [[https://nauedu-prod.modolabs.net/campus_map/map/index?state=detail&feed=campus_buildings_2021_v5&id=d2bb1e0a-4b88-5944-9466-68744bdcd981][Building 90]] (SICCS), second
+floor meeting room (TBD)
+
+What to present?
+1. your research.
+2. somebody else's paper.
+3. some useful software.
+
+- Jan 16: Toby, Title: [[https://github.com/tdhock/mlr3resampling][mlr3resampling]]: cross-validation algorithms for
+  the mlr3 framework in R. Abstract: cross-validation is an essential
+  algorithm in any machine learning analysis. The mlr3 framework in R
+  provides a standard interface to several common machine learning
+  algorithms, including "standard" K-Fold cross-validation via
+  =mlr3::ResamplingCV=. In this talk I will discuss two other kinds of
+  K-fold cross-validation that I have implemented in the
+  mlr3resampling R package. First, "Same versus Other"
+  cross-validation can be used to determine the extent to which you
+  can get accurate predictions, by training on some different data
+  subset/group (person, image, geographic region, year, etc). Second,
+  "Variable Size Train Set" cross-validation can be used to determine
+  how many train set samples are necessary to get optimal prediction
+  accuracy on the test set.
+- Jan 23:
+- Jan 30:
+- Feb 6
+- Feb 13
+- Feb 20
+- Feb 27
+- Mar 5
+- Mar 12: spring break.
+- Mar 19
+- Mar 26
+- Apr 2
+- Apr 9
+- Apr 16
+- Apr 23
+- Apr 30
+- May 7
+- May 14
+- May 21
