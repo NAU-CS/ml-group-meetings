@@ -21,7 +21,7 @@ What to present?
   subset/group (person, image, geographic region, year, etc). Second,
   "Variable Size Train Set" cross-validation can be used to determine
   how many train set samples are necessary to get optimal prediction
-  accuracy on the test set.
+  accuracy on the test set. [[https://github.com/tdhock/necromass/blob/main/HOCKING-slides-2024-01-12-berkeley.pdf][Slides]], [[https://cloud.r-project.org/web/packages/mlr3resampling/vignettes/ResamplingSameOtherCV.html][Vignette]]
 - Jan 23:
 - Jan 30:
 - Feb 6
