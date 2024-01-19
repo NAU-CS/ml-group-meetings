@@ -23,6 +23,11 @@ What to present?
   how many train set samples are necessary to get optimal prediction
   accuracy on the test set. [[https://github.com/tdhock/necromass/blob/main/HOCKING-slides-2024-01-12-berkeley.pdf][Slides]], [[https://cloud.r-project.org/web/packages/mlr3resampling/vignettes/ResamplingSameOtherCV.html][Vignette]]
 - Jan 23:
+  - Presenter: Tung L.Nguyen
+  - I am presenting: My research
+  - Title: Optimizing Changepoint Detection through Deep Learning-based Penalty Tuning
+  - Abstract: This study focuses on improving ChangePoint detection algorithms (OPART and LOPART), by dynamically learning the optimal penalty parameter, lambda. My approach aims to minimize predicted label errors using advanced deep learning methods. Comparative analysis against established methods like Bayesian Information Criterion (BIC) and Linear techniques reveals the superiority of my proposed approach in terms of accuracy. This research contributes to enhancing the adaptability and effectiveness of ChangePoint detection algorithms for improved anomaly detection in time-series data.
+  - Link for the presentation: [[https://github.com/lamtung16/ML_ChangepointDetection/blob/main/Presentation_Ver1.pdf][Slides]]
 - Jan 30:
 - Feb 6
 - Feb 13
