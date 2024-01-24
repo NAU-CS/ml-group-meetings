@@ -24,12 +24,33 @@ What to present?
   accuracy on the test set. [[https://github.com/tdhock/necromass/blob/main/HOCKING-slides-2024-01-12-berkeley.pdf][Slides]], [[https://cloud.r-project.org/web/packages/mlr3resampling/vignettes/ResamplingSameOtherCV.html][Vignette]]
 - Jan 23:
   - Presenter: Tung L.Nguyen
-  - I am presenting: My research
   - Title: Optimizing Changepoint Detection through Deep Learning-based Penalty Tuning
   - Abstract: This study focuses on improving ChangePoint detection algorithms (OPART and LOPART), by dynamically learning the optimal penalty parameter, lambda. My approach aims to minimize predicted label errors using advanced deep learning methods. Comparative analysis against established methods like Bayesian Information Criterion (BIC) and Linear techniques reveals the superiority of my proposed approach in terms of accuracy. This research contributes to enhancing the adaptability and effectiveness of ChangePoint detection algorithms for improved anomaly detection in time-series data.
   - Link for the presentation: [[https://github.com/lamtung16/ML_ChangepointDetection/blob/main/Presentation_Ver1.pdf][Slides]]
-- Jan 30:
-- Feb 6
+- Jan 30: Doris TODO
+- Feb 6: Guangting Yu (ASU, Applied Math) Title: Deep Learning methods
+  for numerical solutions to differential equations. Abstract:
+  Physics-Informed Neural Networks (PINNs) have achieved significant
+  success as a machine learning method (using artificial neural
+  networks) for numerically solving differential equations. We explore
+  the low-rank features that emerge from training PINNs to solve
+  ordinary differential equations (ODEs) and build low-rank
+  architectures to leverage them, achieving a reduction in model
+  complexity. We also use the Deep Ritz method to solve partial
+  differential equations (PDEs) in variational form, including
+  boundary-value problems and eigenvalue problems of Laplace
+  equations. We adopt an alternative optimizer, Ensemble Kalman
+  Inversion (EKI), to replace stochastic gradient descent/ADAM in
+  minimizing the proposed loss functions. This optimizer will be
+  consistently used to train the neural networks in the aforementioned
+  examples for solving ODEs/PDEs. Additionally, we solve inverse
+  problems in PDEs using the PINN setup to recover unknown parameters
+  in PDEs, given partial or sparse observations of the PDE
+  solution. Further applications of PINN to solve fractional
+  differential equations will also be illustrated.  Link for the
+  presentation: https://mathpost.asu.edu/~gyu If the audience are
+  interested, I can stay after the presentation to run demo code
+  (hand-dirty session)
 - Feb 13
 - Feb 20
 - Feb 27
