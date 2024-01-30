@@ -27,7 +27,7 @@ What to present?
   - Title: Optimizing Changepoint Detection through Deep Learning-based Penalty Tuning
   - Abstract: This study focuses on improving ChangePoint detection algorithms (OPART and LOPART), by dynamically learning the optimal penalty parameter, lambda. My approach aims to minimize predicted label errors using advanced deep learning methods. Comparative analysis against established methods like Bayesian Information Criterion (BIC) and Linear techniques reveals the superiority of my proposed approach in terms of accuracy. This research contributes to enhancing the adaptability and effectiveness of ChangePoint detection algorithms for improved anomaly detection in time-series data.
   - Link for the presentation: [[https://github.com/lamtung16/ML_ChangepointDetection/blob/main/Presentation_Ver1.pdf][Slides]]
-- Jan 30: Doris TODO
+- Jan 30: I will be presenting on the basic data manipulation using data.table as part of my research on expanding the open source ecosystem around data.table in R. link to my slides is in: [[https://github.com/DorisAmoakohene/presentation/blob/main/DT%20analysis%20-%20Doris%20Amoakohene_ml%20lab.pdf][here]]
 - Feb 6: Guangting Yu (ASU, Applied Math) Title: Deep Learning methods
   for numerical solutions to differential equations. Abstract:
   Physics-Informed Neural Networks (PINNs) have achieved significant
