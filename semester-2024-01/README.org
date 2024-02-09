@@ -51,7 +51,7 @@ What to present?
   presentation: https://mathpost.asu.edu/~gyu If the audience are
   interested, I can stay after the presentation to run demo code
   (hand-dirty session)
-- Feb 13 : Danny
+- Feb 13 : Danny, Title: ML Experimentation with necromass data set
 - Feb 20
 - Feb 27
 - Mar 5
