@@ -57,7 +57,9 @@ What to present?
   - Presenter: Tung L. Nguyen
   - Title: Fast Python For Loops: Boosting Speed for Efficiency
   - Github repo: [[https://github.com/lamtung16/Speed_Compare][Link]]
-- Mar 5
+- Mar 5:
+  - Presenter: Ani
+  - Title: GitHub Actions: Automated PR-based regression testing
 - Mar 12: spring break.
 - Mar 19: Toby not present.
 - Mar 26
