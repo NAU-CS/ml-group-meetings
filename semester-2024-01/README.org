@@ -59,7 +59,7 @@ What to present?
   - Github repo: [[https://github.com/lamtung16/Speed_Compare][Link]]
 - Mar 5:
   - Presenter: Ani
-  - Title: GitHub Actions: Automated PR-based regression testing
+  - Topic: GitHub Actions; Automated (performance) regression testing on PRs. [[https://docs.google.com/presentation/d/1IOrYQp980-x-zkH5tIInohlh9n_ZAtS1/edit?usp=sharing&ouid=114723374863069972768&rtpof=true&sd=true][Slides]]
 - Mar 12: spring break.
 - Mar 19: Toby not present.
 - Mar 26
