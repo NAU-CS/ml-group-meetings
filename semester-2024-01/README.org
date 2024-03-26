@@ -62,8 +62,8 @@ What to present?
   - Topic: GitHub Actions; Automated (performance) regression testing on PRs. [[https://docs.google.com/presentation/d/1IOrYQp980-x-zkH5tIInohlh9n_ZAtS1/edit?usp=sharing&ouid=114723374863069972768&rtpof=true&sd=true][Slides]]
 - Mar 12: spring break.
 - Mar 19: Toby not present.
-- Mar 26
-- Apr 2 : Danny: PhD Comprehensive Exams Practice Talk
+- Mar 26: Toby, A tutorial on interpretable machine learning algorithms for understanding factors related to childhood autism, [[https://github.com/tdhock/2024-01-ml-for-autism?tab=readme-ov-file#26-feb-2024][links to slides and source]].
+- Apr 2: Danny: PhD Comprehensive Exams Practice Talk
 - Apr 9
 - Apr 16
 - Apr 23
