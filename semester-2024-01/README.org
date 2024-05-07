@@ -76,5 +76,6 @@ What to present?
    - Doris, second Practice Talk for the useR conference, lightning Talk on the Benchmarking Performance for the data.table. 
     [[https://github.com/DorisAmoakohene/Slides-and-Blogs/blob/main/useR_Doris%20Amoakohene_4.30.pptx][see slides here]]
 - May 7
+   - Ani, practice talk for JSM '24, [[https://docs.google.com/presentation/d/1zmbox67WqMePVQk8kI_ZkXc3REv_zfQ6/edit?usp=sharing&ouid=114723374863069972768&rtpof=true&sd=true][slides]]
 - May 14
 - May 21
